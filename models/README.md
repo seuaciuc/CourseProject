@@ -10,6 +10,7 @@ Available models:
 - *HotelModel_100_7.pkl*
   - Model built with 7 aspects on dataset with 100 hotel reviews
   - Associated processed data file: *HotelReviews_100.pkl* (see *\data* folder)
+  - **NOTE:** this will be uploaded when the code finishes.
 
 ## File contents
 Each model file contains two objects, in this order:

@@ -2,9 +2,9 @@
 INPUTS
 '''
 # provide the folder path to the parsed Hotel review files (must be in the data folder)
-inputFolder = 'Texts'
+inputFolder = 'Texts_redux'
 # provide output file name. This will be a pkl file saved in the data folder
-outputFile = 'HotelReviews.pkl'
+outputFile = 'HotelReviews_redux.pkl'
 
 ###############################################################################
 ###############################################################################

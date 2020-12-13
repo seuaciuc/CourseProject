@@ -4,7 +4,7 @@ INPUTS
 # provide the processed MP3 review file name (pkl file). Must be in the data folder
 inputFile = 'MP3reviews_high.pkl'
 outputFile = 'MP3model_high_3.pkl'
-
+NUM_ASPECTS = 3 # number of aspects
 
 ###############################################################################
 ###############################################################################
@@ -17,7 +17,7 @@ outputFile = 'MP3model_high_3.pkl'
 Do not edit any of the code below. Only provide the inputs above
 '''
 
-NUM_ASPECTS = 3 # number of aspects
+
 MAX_REVIEW_ITER = 50 # maximum number of iterarions for review parameters
 MAX_MODEL_ITER = 50 # maximum number of iterations for model parameters
 EPS = 0.01 # minimum change in likelihood for convergence

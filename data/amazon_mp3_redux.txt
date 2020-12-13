@@ -1,0 +1,1973 @@
+#####1
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Rio PMP 300 MP3 Player
+[title]:Great for people with internet not for people without
+[author]:
+[createDate]:Sun Jun 13 00:00:00 CST 1999
+[summary]:
+[fullText]:It is good if you have internet than you can download the stuff, else, you can't  
+[rating]:2.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00000JBAT/ref=cm_cr_dp_all_summary/002-2313684-7157658?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1
+[textPath]:
+
+#####2
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Rio PMP 300 MP3 Player
+[title]:WOW! THE BEST THING TO HAPPEN TO MUSIC!
+[author]:Adam Sacks
+[createDate]:Sun Jun 13 00:00:00 CST 1999
+[summary]:
+[fullText]:The RIO rocks! It is so great that Diamond Multimedia prevailed in their fight against the forces of pure evil in the music industry and allowed us, the public, to have the RIO! This little baby holds your MP3's and plays  them with outrageous quality and no moving parts! You simply cannot make  the music &quot;skip&quot;. Take it jogging, bob sledding, whatever! The  Rio is cute and compact, battery lasts forever, runs great and is really  simple to use. Works well with the PC linkup, etc. A hot item!  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00000JBAT/ref=cm_cr_dp_all_summary/002-2313684-7157658?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1
+[textPath]:
+
+#####3
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Rio PMP 300 MP3 Player
+[title]:The first MP3 Handheld available on the Consumer market
+[author]:
+[createDate]:Mon Jun 14 00:00:00 CST 1999
+[summary]:
+[fullText]:I had high hopes for the Diamond Rio and it certainly lived up 2 the hype. Lightweight and excellent quality with some good connecting software. My only gripe can be with memory. You definately need another 32Mb to store  your music. If you want one, my advice is to wait for the new upgraded  version with 64Mb and a graphic equaliser!  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00000JBAT/ref=cm_cr_dp_all_summary/002-2313684-7157658?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1
+[textPath]:
+
+#####4
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Rio PMP 300 MP3 Player
+[title]:Next Millenium Consumer Electronics
+[author]:bernhardgroehl@otelo-online.de
+[createDate]:Mon Jun 14 00:00:00 CST 1999
+[summary]:
+[fullText]:Diamond's RIO is the current, silicon-state nightmare for monopolistic entertainment industries. When the first audio recording-devices entered the consumer market decades ago, the idea of a controlled  &quot;charge-per-copy&quot; business model in the music industry was  doomed. Although traditional copyrights could never be totally enforced,  the record and music-producing industry neglected these threads existing in  the shades of multi-billion profits.<p>Mp3 and the Internet raided the  existing markets with their &quot;natural&quot; power like a cruise-missile  against a frying-pan.  Like other good examples for  &quot;Killer-Apps&quot;, the RIO is designed to Web-Specs (mp3). This makes  its use and performance comparable with other CD-quality playing devices  while putting the power of the internet into the palm of your hand. If you  want to make a statement of &quot;being digital&quot;, the RIO is a must!  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00000JBAT/ref=cm_cr_dp_all_summary/002-2313684-7157658?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1
+[textPath]:
+
+#####5
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Rio PMP 300 MP3 Player
+[title]:Brilliant!
+[author]:
+[createDate]:Tue Jun 15 00:00:00 CST 1999
+[summary]:
+[fullText]:Remember when the Walkman hit the market years ago?  At first it was fad, then it became a craze before finally becoming as ubiquitous as taxi cabs in Manhattan.  The Diamond Rio is the first product with the potential to  eventually REPLACE the Walkman.  Think about it - portable music that  sounds as clear as a compact disc from a device that looks and feels like a  pager.  Unshockable, no matter how much you jump around or how bumpy the  bus ride.  This is the perfect gift for your favorite &quot;gadget  junkie&quot;, as long as they have a PC to download from.  Pssst...here's a  secret:  you can record your own CD's into MP3 format and download the  songs into your RIO - it isn't just for internet music!!  Great product.  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00000JBAT/ref=cm_cr_dp_all_summary/002-2313684-7157658?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1
+[textPath]:
+
+#####6
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Rio PMP 300 MP3 Player
+[title]:it's good - who dosen't have the net?
+[author]:
+[createDate]:Tue Jun 15 00:00:00 CST 1999
+[summary]:
+[fullText]:It's cool and small  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00000JBAT/ref=cm_cr_dp_all_summary/002-2313684-7157658?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1
+[textPath]:
+
+#####7
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Rio PMP 300 MP3 Player
+[title]:pretty cool gadget but...
+[author]:Knute
+[createDate]:Thu Jun 17 00:00:00 CST 1999
+[summary]:
+[fullText]:...the 'Windows' software to download songs to the device DOES NOT WORK WITH Windows NT.<p>Also, the headphones are low quality so you might want to get some better ones because the actual quality of the audio signal is  pretty good.  The solid-state walkman has arrived.  
+[rating]:3.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:2
+[totalNum]:2
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00000JBAT/ref=cm_cr_dp_all_summary/002-2313684-7157658?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1
+[textPath]:
+
+#####8
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Rio PMP 300 MP3 Player
+[title]:AMAZING!
+[author]:
+[createDate]:Fri Jun 18 00:00:00 CST 1999
+[summary]:
+[fullText]:Since the firts day I saw it, i knew it was going to be a great product. I just bought mine here on amazon.com!!!  What a terrific idea! I think it's going to be the standard for music, not only for the people that are  &quot;on-line&quot;but everybody as well. I highly recommend it!  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00000JBAT/ref=cm_cr_dp_all_summary/002-2313684-7157658?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1
+[textPath]:
+
+#####9
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Rio PMP 300 MP3 Player
+[title]:Do your self a favor and get a portable mini disc player.
+[author]:
+[createDate]:Mon Jun 21 00:00:00 CST 1999
+[summary]:
+[fullText]:Only a half an hour of &quot;near&quot; quality music makes this format seriously flawed. To change music you eventually have to upload new music, i.e. a huge inconveneince when a computer is available. Mini disc is also  shock proof, recordable, near cd quality but in addition you can change  music with out the inconvenience of uploading music from a computer.  
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:1
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00000JBAT/ref=cm_cr_dp_all_summary/002-2313684-7157658?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1
+[textPath]:
+
+#####10
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Rio PMP 300 MP3 Player
+[title]:Why just 30 minutes?
+[author]:
+[createDate]:Tue Jun 22 00:00:00 CST 1999
+[summary]:
+[fullText]:RIO is really great, but Diamond should increase its memory so as to really worth the money.  
+[rating]:3.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00000JBAT/ref=cm_cr_dp_all_summary/002-2313684-7157658?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1
+[textPath]:
+
+#####11
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA RD1000 Kazoo 32 MB MP3 Player
+[title]:This is righteous stuff!
+[author]:"aperez101"
+[createDate]:Tue Aug 28 00:00:00 CST 2001
+[summary]:
+[fullText]:I bought this for one reason, and one reason only: size. Many of the other mp3 players out there were larger and clunkier. I own a Handspring Visor Deluxe and was going to use that as an mp3 player because of the aforementioned clunky sizes of other players. &quot;Why spend money for something that's not much smaller?&quot; I thought. Then, I stumbled across this baby... I read the specs and was admittedly not too impressed. 32 megs is not much, especially if you're going for full stereophonic 128 kbps sound. At that rate you could only get about half an hour of music - enough to go to the store, but not much more. Of course, there was always the option of a memory card but those added to the cost. It looked like I was going to pass this player by until I saw one on sale at an un-named competitor of this fine site. At the price I saw it for, I had to take the chance... Twenty four hours later, I'm still in awe. To begin with, just seeing the darn thing gives you a swell feeling. It's tiny, I mean tiny. It made my wife proclaim it to be &quot;cute.&quot; In such a small package I was expecting so-so sound at best. Not true. It is super duper. The built-in equalizer is servicable enough, and it takes a quick press o' the button to change settings. So I was hooked on the sound and size, there was only the capacity issue to consider... Then I rememberd my good friend db PowerAmp Music Converter (search for it on the web). This sweet program lets you convert current mp3's to lame or blade mp3's with a smaller bit rate. Smaller bit rate means smaller size. Smaller size means less space on the 32 meg memory, which translates into more sound. Lovely. Some will decry encoding anything to less than cd (128 kbps) sound, but pah I say. I was born and raised on analog and a little less crispness in my music is actually preferred. The human ear can barely discern the difference between 80 and 128 kbps recordings anyway, so why bother? At 80 kbps I can squeeze about 50 minutes or so of music into that 32 megs. Not bad. Not bad at all. After I buy a 64 or 96 meg card, I'll be waltzing back and forth to work with only my tiny kazoo as my companion. Beautiful. If you are reading this and thinking either &quot;What in hades is he talking about?&quot; or &quot;That is way to much bother for listening to some music!&quot; please reconsider! It takes only a few minutes (even for you 56 k types) to download db PowerAmp and a few more to convert the mp3's to lower bitrates. Trouble? Nah. At least not for the payoff. Sweet music for a sweet price. Did I mention it's tiny and cute? Buy this mp3 player and be a happy camper. It's a wonder.  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:20
+[totalNum]:20
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00005NHHA/ref=cm_cr_dp_all_summary/104-4751495-8747160?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/10
+[textPath]:
+
+#####12
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA RD1000 Kazoo 32 MB MP3 Player
+[title]:Not Universal
+[author]:
+[createDate]:Fri Aug 31 00:00:00 CST 2001
+[summary]:
+[fullText]:Beware when considering this product!  Although it prominently displays the USB compatability, it does not state on the exterior package that it is only Window compatible.  When I found a friend foolish enough to be using Window's software I got some music loaded into it.  It is a remarkable device, small, easy to use, good sound quality, and expandable.  However, after about 1 month of use the screen died and it is currently in route to RCA for a repair/replace.  I complained to them that the word Universal in USB should mean Universal, i.e. both Mac and Windows compatible.  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00005NHHA/ref=cm_cr_dp_all_summary/104-4751495-8747160?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/10
+[textPath]:
+
+#####13
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA RD1000 Kazoo 32 MB MP3 Player
+[title]:The smallest MP3 player; very well designed.
+[author]:
+[createDate]:Mon Sep 17 00:00:00 CST 2001
+[summary]:
+[fullText]:After about a week of researching about 25 mp3 players I finally settled on the RCA Kazoo. I wanted the smallest mp3 player possible, but didnt want to sacrifice great sound. My Kazoo delivers for only $... After much research I decided I needed a unit that had: lock (so buttons dont get pushed accidentally), bass boost/ equalizer, digital volume control, big clear display, & fast transfer rate (2.4Mb/sec). You'd be supprised many more expensive units dont have all of these features. I also didnt care about other formats since mp3 is the standard & all formats can be converted to mp3 via software. The included software Music Match & Real Jukebox are excellent. I just dragged & dropped my mp3 files from explorer into real Jukebox. Real Jukebox lets you set the bit rate you would like and automatically lowers bitrate on files to bitrate you choose to save memory/size. This brigs me to the 1 of 2 drawbacks. ALthough 32 mb is common w/ mp3 players it isnt enough (at 128k bit rate). I plan on ordering a 64 MB MM card (dont pay more than $1/mb if you decide to buy memory). I did find out that at 56k the sound was still awesome & I can hold about 75 minutes of music w/o extra memory. The second drawback doesnt apply to me but I read in one review that this doesnt support Mac. If you are a windows user you will be very satisfied!! I can't see why anyone could buy a player w/ a slower transfer rate; USB is the way to go. <br>One last note: The display is large & easy to read. It shows track, time, bit rate, volume, battery, & dsp.  It does not show the name of the current song that is playing the way larger mp3 players do.<br>Hope this helps & good luck in your search.  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:29
+[totalNum]:29
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00005NHHA/ref=cm_cr_dp_all_summary/104-4751495-8747160?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/10
+[textPath]:
+
+#####14
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA RD1000 Kazoo 32 MB MP3 Player
+[title]:RCA K@ZOO
+[author]:Mike Canavan
+[createDate]:Thu Sep 27 00:00:00 CST 2001
+[summary]:
+[fullText]:This mp3 player is awesome. It's go great sound and is so small. It's lightweight and portable. The only reason I don't give it a 5 star is because it doesn't have that much memory. I can fit up to 10 songs on it. If it had more memory I would give it a five star. But great for beginners who want a mp3 player because it's so inexpensive and it's easy to use.  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:1
+[totalNum]:1
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00005NHHA/ref=cm_cr_dp_all_summary/104-4751495-8747160?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/10
+[textPath]:
+
+#####15
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA RD1000 Kazoo 32 MB MP3 Player
+[title]:DO NOT DEAL WITH RCA/THOMPSON!
+[author]:null
+[createDate]:Sun Sep 30 00:00:00 CST 2001
+[summary]:
+[fullText]:I bought this player and was fairly happy with it.  It is very small and sounds fine.  Unfortuneately, I lost the cd containing the drivers for it.  I called customer service to get a replacement cd.  My first call to RCA/Thompson technical support directed me to a page where I could download software for the RCA Lyra.  After telling the representative that I had the K@zoo, and not the Lyra, he said &quot;sorry, that's all the information I have.&quot;  <p>Today, I figured I'd try again - maybe there'd be more information.  This time I was told, in fact, that the software is not available online, but that the cd could be shipped to me.  However, it would cost $12.95 for a cd containing one driver, and 2 free to download software programs.  I was about to order, when I was then informed of the $9.95 SHIPPING FEE.  TO MAIL ME ONE COMPACT DISK.  <p>Needless to say, I am far from pleased, and I urge anyone considering buying an RCA product to stay far, far away.  If you ever need customer service (and judging by the reviews of many mp3 players, you will), you will greatly regret the purchase.  
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:1
+[totalNum]:4
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00005NHHA/ref=cm_cr_dp_all_summary/104-4751495-8747160?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/10
+[textPath]:
+
+#####16
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA RD1000 Kazoo 32 MB MP3 Player
+[title]:Great Product!
+[author]:
+[createDate]:Mon Oct 01 00:00:00 CST 2001
+[summary]:
+[fullText]:I bought this today and I'm very pleased.  The size is great (very small), the sound quality is excellent, and the behind-the-ear headphones that it came packaged with are also very nice.  The price is very low and the USB feature makes transfer easy.  The software included is relatively simple to use and allows you to insert cds, and create MP3 files.  <br>The only drawback is that the 3 ways they made for you to wear it are pretty bad.  It comes with a pendant (who wants to have it swinging around their neck?) a little plastic pouch that is very hard to put on your belt, and a wrist strap.  I found a good way to wear it, though.  Buy one of those little sticky things with the belt clip that you use for a cell phone and then just clip it on your belt with that.  Once you get that, it's perfect.  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:7
+[totalNum]:7
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00005NHHA/ref=cm_cr_dp_all_summary/104-4751495-8747160?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/10
+[textPath]:
+
+#####17
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA RD1000 Kazoo 32 MB MP3 Player
+[title]:CRAPPY
+[author]:
+[createDate]:Fri Oct 05 00:00:00 CST 2001
+[summary]:
+[fullText]:The software on the RCA Kazoo is almost impossible for me to figure out.  The RCA kazoo's Headphones also "are bad".  I think it is too expensive for what its worth and i am asking you not to buy this peice of junk.  
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:2
+[totalNum]:9
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00005NHHA/ref=cm_cr_dp_all_summary/104-4751495-8747160?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/10
+[textPath]:
+
+#####18
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA RD1000 Kazoo 32 MB MP3 Player
+[title]:DOESN'T WORK ON MY WINDOWS XP MACHINE
+[author]:Paul Vance
+[createDate]:Wed Oct 31 00:00:00 CST 2001
+[summary]:
+[fullText]:Even thought I got this thing FREE after rebates with the purchase of Windows XP, even though the Install disk says Windows XP, Windows XP tells you when you try to install it that it is NOT CERTIFIED to run on Windows XP.  I figured it must run OK nonetheless, since the Install disk says XP and it came free with Windows XP, but it doesn't on my machine.<p>In fact, even though the player shows up when you plug it in on the taskbar, the software doesn't recognize it.  Windows Media Player doesn't see it either.  <p>The USB cable is too short if you have a tower machine.  It doesn't even reach to the counter.  
+[rating]:2.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:3
+[totalNum]:4
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00005NHHA/ref=cm_cr_dp_all_summary/104-4751495-8747160?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/10
+[textPath]:
+
+#####19
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA RD1000 Kazoo 32 MB MP3 Player
+[title]:nice and simple
+[author]:daniel ungos
+[createDate]:Sun Nov 04 00:00:00 CST 2001
+[summary]:
+[fullText]:great player for the first time buyer. it's tiny, and very cute. has all the basics. very nice price.  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00005NHHA/ref=cm_cr_dp_all_summary/104-4751495-8747160?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/10
+[textPath]:
+
+#####20
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA RD1000 Kazoo 32 MB MP3 Player
+[title]:Nice size but need more memory
+[author]:
+[createDate]:Sun Nov 11 00:00:00 CST 2001
+[summary]:
+[fullText]:While this unit best feature is it's small light weight size, without a memory card you can only get 6-8 MP3's on the built in 32 meg of flash ram. Also I've heard that the software won't work with Windows XP, I had planed on upgrading soon? The headphones are pretty good although they start to hurt the ears after 30-40 mins. This MP3 player sure blows away those old clunky walkman CD players, it's 1/10th of the size and weight! Smaller is indeed better!  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:7
+[totalNum]:7
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00005NHHA/ref=cm_cr_dp_all_summary/104-4751495-8747160?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/10
+[textPath]:
+
+#####21
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Oregon Scientific MP210/BL512C 512 MB Micro Thin Card-Sized MP3 Player with FM & Voice Recorder
+[title]:Elegant Package,  Easy To Operate, Surprising FM Tuner
+[author]:David Gurgel
+[createDate]:Mon Mar 14 00:00:00 CST 2005
+[summary]:
+[fullText]:This MP3 player, voice recorder, FM radio all-in-one is 1/4" longer and same width as my AMEX card and 1/4" thick. Five buttons on two edges control all functions while 1" X 5/8" see-through display gives needed info. Diplay was B in normal room light with my trifocal glasses and was C- with adjustable edge lighting in dark rooms. The built-in battery recharges from any USB connection. You will want a short USB connector, not the six-footer that is included - compactness is why you buy it.<br /><br />Windows 2000 and XP recognize the player at once when connecting with the USB cable. The player comes up as an external drive, so just move files with Explorer and you are set.<br /><br />Voce recorder is easy enough and did an adequate job recording me from my shirt pocket with decent fidelity. Probably OK on a desktop to pick up two or three people around the desk. Built-in mic is the only choice.<br /><br />FM tuner sensitivity was a nice surprise. Reception in my office was as clear and sensitive as on my Grundhig portable, and it automatically scanned in 30 stations on first use. (Presets can of course be manually chosen.) The earbuds are the antenna.<br /><br />A crummy cloth bag was included, but a small leather slip case with a pocket clip would have been so easy to do and much more useful.<br /><br />Sound with the included earbuds seemed fine to me - definitely a a few steps above entry level.The unit is nicely packaged and looks like it could be dropped a good number of times with no problems.                   
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:7
+[totalNum]:7
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00062LOXY/ref=cm_cr_dp_all_summary/103-5603909-3483038?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/100
+[textPath]:
+
+#####22
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Oregon Scientific MP210/BL512C 512 MB Micro Thin Card-Sized MP3 Player with FM & Voice Recorder
+[title]:Oregon scientific MP210
+[author]:avi "avinash"
+[createDate]:Wed Mar 01 00:00:00 CST 2006
+[summary]:
+[fullText]:I bought this instrument and it was spoilt within 2 months.The navigation to songs isnt user friendly.Even though I charge the battery completely, the instrument turns off abruptly.Sometimes it never goes on.Tried resetting it, charging it..nothing works.I am not sure whether its a defect with the instrument or the product, but would never go for it again.  
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:1
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00062LOXY/ref=cm_cr_dp_all_summary/103-5603909-3483038?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/100
+[textPath]:
+
+#####23
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Oregon Scientific MP210/BL512C 512 MB Micro Thin Card-Sized MP3 Player with FM & Voice Recorder
+[title]:disappointing
+[author]:David Kimble "workingstiff"
+[createDate]:Sun Apr 09 00:00:00 CST 2006
+[summary]:
+[fullText]:I had great hopes for this product, and I read the reviews so I only have myself to blame, but this is not a very well built product. Catchy see through display is hard to read. On/Off is tough and not very intuitive. Sound was good. Radio was limited in its ability to "tune". If I had the chance, I wouldn't buy it again. Sorry!  
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00062LOXY/ref=cm_cr_dp_all_summary/103-5603909-3483038?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/100
+[textPath]:
+
+#####24
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Oregon Scientific MP210/BL512C 512 MB Micro Thin Card-Sized MP3 Player with FM & Voice Recorder
+[title]:Get an iPod nano for free instead!
+[author]:HookedOnGadgets
+[createDate]:Sat Aug 12 00:00:00 CST 2006
+[summary]:
+[fullText]:Why settle for less, when you can get a brand new original iPod nano 4GB for Free! I got mine from this web site:  ilikethis.info/ipod-nano  
+[rating]:3.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:1
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00062LOXY/ref=cm_cr_dp_all_summary/103-5603909-3483038?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/100
+[textPath]:
+
+#####25
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Oregon Scientific MP210/BL512C 512 MB Micro Thin Card-Sized MP3 Player with FM & Voice Recorder
+[title]:Oregon Scientific MP210
+[author]:Guillrmo F. Bautista Sanz "GUILLERMO F"
+[createDate]:Tue Nov 07 00:00:00 CST 2006
+[summary]:
+[fullText]:like  very  mach  the  product   for     had   voice  recorder  al    radio    very  mucho   also    for the  batery  is      work   more  time  other  product  today  on   the  market    realy   recomet  the   product  other  buy    is  realy  good  product    also    the  pray   in  amazon    
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:1
+[totalNum]:2
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00062LOXY/ref=cm_cr_dp_all_summary/103-5603909-3483038?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/100
+[textPath]:
+
+#####26
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative Zen Micro 5 GB MP3 Player Pink
+[title]:Pretty sweet
+[author]:S. Roberts
+[createDate]:Sat Oct 23 00:00:00 CST 2004
+[summary]:
+[fullText]:Ok, first of all, in response to a few of you who have 'reviewed' the Zen Micro already:  If there aren't many OGG players out there, there's probably a good reason for it. For some reason, 'Betamax' keeps ringing in my ears...  Second, no one, and I mean NO ONE, listens to AM radio. Unless you want to catch 'the game', or perhaps you're just grumpy because your cane has fallen behind the washing machine again and you can't reach it?  Third, if your girlfriend laughs at you, tell her where to shove it. Strap on a pair man. If anything you should feel smug for owning a quality piece of intriguing equipment.  As an iPod owner, I can say well done to creative for emulating apple's simplicity and sleek looks. I'd be interested.  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:7
+[totalNum]:23
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00067TTY0/ref=cm_cr_pr_link_2/002-7886477-3652027?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1000
+[textPath]:
+
+#####27
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative Zen Micro 5 GB MP3 Player Pink
+[title]:Get a Rio Karma instead
+[author]:Marc A. Stock "lathion"
+[createDate]:Sun Oct 24 00:00:00 CST 2004
+[summary]:
+[fullText]:This device looks pretty nice but it's really not very competitive.  The iPod mini is smaller and sexier, albeit limited in supported formats and the Rio Karma is a far better value.  The karma is only $5 more, it's small, had a 20 gig drive and supports more formats including ogg.  The karma doesn't look as sexy but it's interface is very efficiently designed.  In fact, it's much better than the iPod in that regard.  The karma also has a very long battery life.  Having owned both the karma and other Creative Lab products (including Zen) I would have to say the Karma also sounds better.  No comparison in my opinion.  
+[rating]:3.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:12
+[totalNum]:47
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00067TTY0/ref=cm_cr_pr_link_2/002-7886477-3652027?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1000
+[textPath]:
+
+#####28
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative Zen Micro 5 GB MP3 Player Pink
+[title]:Not really a review.
+[author]:Justin E Ladue "Tweet"
+[createDate]:Mon Oct 25 00:00:00 CST 2004
+[summary]:
+[fullText]:This is not really a review since the product isn't even available yet.  I'd just like to point out to the all the ipod lovers out there that this device completely rules the ipod when it comes to the battery.  If the ipod's battery stops taking a charge, which usually happens after about 18 months of steady use, you CAN'T replace it yourself.  You have to send it back to the factory where they charge you ninety-nine bucks plus shipping.  For that simple reason I will never own an ipod.  
+[rating]:3.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:8
+[totalNum]:26
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00067TTY0/ref=cm_cr_pr_link_2/002-7886477-3652027?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1000
+[textPath]:
+
+#####29
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative Zen Micro 5 GB MP3 Player Pink
+[title]:The Preview
+[author]:Roman Kudryashov
+[createDate]:Tue Oct 26 00:00:00 CST 2004
+[summary]:
+[fullText]:Alot of people seem to compare any music player to an Ipod. Comments such as "it's stylish" or "it looks cool" or "everyone has it" don't nesseseraly make something good.About the Ipod: it has it's downfalls as well. As for the Zen Micro:\  Cons:  I read that every button is touch sensitive, and thats very annoying when all the main buttons are on the front. Putting the Micro into your pocket could trigger just about anything (unless the hold feature is improved: it asks if you want to "unhold" for every button up press) Second, I'm worried about the durability of the player. After research of other creative hard drive players, i found that most of them aren't very durable and tend to crash (read most reviews on amazon.com and see for yourself). Last, i find the price a bit expensive for a product such as this. $190 or $200 or less would have been much more reasonable (price compareble to 20gb mp3 players). As for the warrenty, i havent seen it yet, but i fear for a short one again.  Pros The Design is very nice, and the colors are too. They are bold colors, not the (personally) irratating toned down 'light' Ipod colors. It also has tons more features then previous creative products, and most of them are very useful such as the ability to custimize the main menu to show the stuff you want, not the default items (creativelabs.com for more on that).  The battery is also convenient, but could have been better, such as the Zen Touch's battery (but at least this one is removable).    Verdict:  Had I not needed something with a tad bit more space, I consider this player fair game. If you don't mind all the buttons being touch sensitive, I'd recomment buying it to try out, and also buy an extra 2 year warrenty for it (there are some offered here, for about $15 dollors I think).  Closing: For everyone who is shallow and buys the Ipod only becouse of it's looks (i'm not saying it's necissarily bad), here's a joke: What did the Pencil Sharpener say to the Pencil? Stopping going in circles and get to the point. Why go in circles to find something you want? (  :)  )  
+[rating]:3.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:31
+[totalNum]:109
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00067TTY0/ref=cm_cr_pr_link_2/002-7886477-3652027?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1000
+[textPath]:
+
+#####30
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative Zen Micro 5 GB MP3 Player Pink
+[title]:Should be good
+[author]:N. Seybert
+[createDate]:Tue Nov 02 00:00:00 CST 2004
+[summary]:
+[fullText]:Nobody has clearly articulated what exactly about the Ipod mini makes it better than this product.  I have visited multiple websites, and for virtually EVERY new hard-drive-based mp3 player I find, there are always user reviews that smash the new player and say something like "Just go buy an Ipod!"  Apple apparently has built up a very nice following of brainwashed consumers.  It is unlikely that you will EVER get the best products just by sticking with one company.  What is the conjunctive probability that each successive product release will be without flaws or that the company isn't having turnover in the R&D department (or making bad management decisions)?  Apple never was involved with a lot of audio products until the Ipod.  I have owned some kind of Creative audio product since 1993 and have never had to call tech support.  Of course, some were better than others, and I probably could have gotten a better sound card from another company at some point.  The main issue now is that this new Zen Micro seems to be the best on the market at least temporarily.  It beats Apple on the storage space, it beats apple on the removable battery (and batter life), and I personally like its interface more than the Ipod scroll wheel.  Further, the tech specs suggest that it has better audio quality than the Ipod.  It may be that the next Creative product is complete junk, but you should make product decisions based on product attributes NOW, not based on a halo effect of an idealized company (Apple) or other pointless loyalties.    
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:59
+[totalNum]:82
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00067TTY0/ref=cm_cr_pr_link_2/002-7886477-3652027?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1000
+[textPath]:
+
+#####31
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative Zen Micro 5 GB MP3 Player Pink
+[title]:The Best
+[author]:Mevis
+[createDate]:Tue Nov 02 00:00:00 CST 2004
+[summary]:
+[fullText]:Im thinking of getting the Zen Micro.I have search for a while for the right mp3 and this seems to be the one!  It looks very good and seems like it'll work very well.  I personally think its better than the i pod.  My favorite things are the vertical touch pad and the changable battery.!! Thank you for making this MP3!!!!! -Mevis  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:4
+[totalNum]:36
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00067TTY0/ref=cm_cr_pr_link_2/002-7886477-3652027?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1000
+[textPath]:
+
+#####32
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative Zen Micro 5 GB MP3 Player Pink
+[title]:get 20GB iPod for same price
+[author]:Anonymous
+[createDate]:Thu Nov 04 00:00:00 CST 2004
+[summary]:
+[fullText]:Why would anyone buy this when you can get a 20GB iPod that will hold 4 times the number of songs (and even MORE if AAC encoding is used) for the same price???  In addition , iPods can be used as portable hard drives and can display your calendars and contact info.   
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:13
+[totalNum]:113
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00067TTY0/ref=cm_cr_pr_link_2/002-7886477-3652027?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1000
+[textPath]:
+
+#####33
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative Zen Micro 5 GB MP3 Player Pink
+[title]:Good Buy
+[author]:Michael Krauklis
+[createDate]:Fri Nov 05 00:00:00 CST 2004
+[summary]:
+[fullText]:Not a review, I'll update when I get it, but these are the points that sold me: - Calendar that can synch with MS Office (contrary to other posts, the micro does have this functionality and it is actually better than the mini's functionality so long as you have Outlook) - Removable battery (iPod and Rio Carbon fall short) - More Space than iPod Mini - FM Radio Tuner - Not stuck with iTunes (I buy all my CDs, I like to listen to a whole album) - Looks Nice, seems to have a good interface - Bundeled with good software - Best audio quality on the market for comperable players - Creative's history in audio - My past experience with Creative - Did I mention the removable battery?  That's huge! - Also much better battery life than the iPod Mini.  On par with the Carbon - Voice/Radio recording a +, but not a big one for me  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:16
+[totalNum]:18
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00067TTY0/ref=cm_cr_pr_link_2/002-7886477-3652027?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1000
+[textPath]:
+
+#####34
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative Zen Micro 5 GB MP3 Player Pink
+[title]:The first legitimate iPod mini killer
+[author]:Alex
+[createDate]:Fri Nov 05 00:00:00 CST 2004
+[summary]:
+[fullText]:Creatives new Zen micro is a promising mp3 player for people of all ages. It seems to be the only mini-drive player that can compete with the iPod mini. Compared to the mini, heres are the pros and cons:   Pros-Removable battery, Better battery life, Ten electrifying colors(5 more than the mini), Intuitive vertical Touch Pad, Mesmerizing blue glow, FM radio with recording, Voice recording and built in mic, Twice the internet music access(including Napster, MSN's music service and more), Comes with everything you need (A belt clip that doubles as a stand, a protective carrying case, a USB 2.0 cable, a universal AC adapter and in-ear dynamic bass response earbuds)  Cons-Even though it hold more songs than the iPod mini,5gb may not be enough storage for a growing music library, Does not have games which should not be an issue for most people, Not as many accessory options from brands other than Creative (but hey, it comes with everything you'll ever need, except the optional wired remote which i will be getting once i get mine)  All in all, this is a solid player for many users from the begginer to the audiophile  yes..i will be getting one, the Pros substantially outnumber the cons. This is the player ive been looking for.  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:19
+[totalNum]:26
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00067TTY0/ref=cm_cr_pr_link_2/002-7886477-3652027?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1000
+[textPath]:
+
+#####35
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative Zen Micro 5 GB MP3 Player Pink
+[title]:I'm an IPod mini owner but...
+[author]:Timothy Stoehr
+[createDate]:Fri Nov 05 00:00:00 CST 2004
+[summary]:
+[fullText]:this item does intrigue me. And by the way don't label the IPod owners as brainwashed when you're raving about a product you haven't even seen yet. And if you believe the battery will last 12 hours just cuz Creative says it will, they YOU'RE brainwashed. Also, Creative is NOT the first to market this kind of MP3 player. They followed after the PJB-100 from Hy-Tek or Hango or someone like that. I had one of those (paid thru my nose) and later I had the Creative Jukebox. The Jukebox I owned was a piece of garbage. The user interface was either insanely poor, or it was malfunctioning upon arrival. It stopped working completely after a few months. So I'm a bit leary about the zen micro.  However, comparing it to my IPod mini, I seem some positives: 1.) Modular battery. 2.) FM radio. 3.) Possibly better buttons. (never liked the IPod wheel)  I wonder if the buttons operate as well as the IPod's wheel, which can be a nuisance sometimes. Cuz when your trying to use it for a button sometimes it thinks your trying to use it as a wheel. And I don't think anybody has ever improved on the good old standard volume dial. But for surfing thru lists, or very long recordings, the IPod wheel rules.  One thing that's cool about the IPod mini is that it doesn't carry a disk drive but rather a CF card. No spinning mechanical hard drive. Much more reliable.  I am interested in the zen. But I'd really have to check it out in person first before being convinced one way or the other.  Can anyone who OWNS an IPod and a Zen comment on the relative sound quality? That's a big issue for me and if it does sound better, I might consider trying out the zen and possibly EBaying my IPod mini.  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:7
+[totalNum]:40
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00067TTY0/ref=cm_cr_pr_link_2/002-7886477-3652027?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1000
+[textPath]:
+
+#####36
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative Zen Micro 5 GB MP3 Player Pink
+[title]:JUNK!
+[author]:bigleo "basic guy"
+[createDate]:Wed Nov 28 00:00:00 CST 2007
+[summary]:
+[fullText]:I bought a 6gb Micro in 4/06..after several months the screen locked up...I tried everything including a new battery...$200 bucks in the trash! Don't buy Creative anything..terrible product....... terrible company..   
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00067TTY0/ref=cm_cr_pr_link_55/002-7886477-3652027?%5Fencoding=UTF8&pageNumber=55&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1001
+[textPath]:
+
+#####37
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative Zen Micro 5 GB MP3 Player Pink
+[title]:it was nice, and then it wasn't
+[author]:Superpig "Dan"
+[createDate]:Tue Feb 26 00:00:00 CST 2008
+[summary]:
+[fullText]:after about a month it started freezing regularly when I tried to turn it off. The only way to unfreeze the thing was to take the battery out. Then, about a week later, it just completely froze, and the screen showed a picture of an unhappy zen micro...   Well, obviously this wasn't normal, so I called Creative and they said normally they would replace it, but they discontinued the product. Oh well, I did get my money back, and the customer service was good, so 4 stars. I really liked it, and I would recommend it, I just hope it doesn't break.  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00067TTY0/ref=cm_cr_pr_link_55/002-7886477-3652027?%5Fencoding=UTF8&pageNumber=55&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1009
+[textPath]:
+
+#####86
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA Lyra RD2765  5 GB Digital Jukebox with Color LCD Screen
+[title]:Man I wish someone would review this item
+[author]:Patrick Sullivan
+[createDate]:Mon May 02 00:00:00 CST 2005
+[summary]:
+[fullText]:If you go to the RCA web site it says nothing about the following features. -------                                                                                                                        Composite Video Output Composite video output allows you to display video images on your TV set.  ------Audio and Video Recording Mode Records from analog input source to mp3 format. Records from analog video input to MPEG-4 format.  ------Compact Flash (Type 1) Slot Transfers audio, video or any file type to HDD. View pictures directly from digital camera's compact flash card.  I hope it has all of these fetures because I think I'm buying it. Even without them it looks like a great player. Somebody please write a review on this product.  
+[rating]:3.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:1
+[totalNum]:6
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00063EG0G/ref=cm_cr_dp_all_summary/105-3500110-2134062?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/101
+[textPath]:
+
+#####87
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA Lyra RD2765  5 GB Digital Jukebox with Color LCD Screen
+[title]:Awesome, well-designed little player
+[author]:J. Stephenson
+[createDate]:Mon May 02 00:00:00 CST 2005
+[summary]:
+[fullText]:I'm a fanatic...I normallly do alot of research before buying anything...I looked at the Creative Zen, mini-IPOD etc. Then I came across this beauty by chance on Amazon, released at the start of April. It is incredible..very light and tiny, beautiful clear screen, user-friendly software, great sound. The earphones included are terrible but thats pretty normal for this sort of purchase. Everyday use is childs-play, uploading songs is quick and easy. Controls are perfect too and well-designed.  I took a chance and bought this without any real knowledge of its reliability..so far so good..dropped it already and no problems. Also comes with a handy case.   Most of my friends have mini IPODs...I was tempted to join the masses...but everyone agrees this jukebox is superior...and its far nicer to look at..the aluminium finish is superb, though it does get smudged easily. I am a very proud owner so far. Added addition is ability to look at photos.  Be brave and buy this...you will not be disappointed!!!  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:5
+[totalNum]:5
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00063EG0G/ref=cm_cr_dp_all_summary/105-3500110-2134062?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/101
+[textPath]:
+
+#####88
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA Lyra RD2765  5 GB Digital Jukebox with Color LCD Screen
+[title]:Pretty nice mini-DAP
+[author]:Austin Vaughan
+[createDate]:Fri May 06 00:00:00 CST 2005
+[summary]:
+[fullText]:The Good Stuff - Small dimensions, average build-quality - Shiney, polished-metal style materials (plastic, actually)  - 5Gb MicroDrive  - 5-way joystick plus a mechanical wheel-scroller for zooming quickly through lists  - Charges over USB  - Color screen (not TFT, the duller type) - File/Folder browsing AND iD3 based browsing (Artist, Album, Track, Genre, Year, etc)  - Profiling (can scan tracks and self-databased iD3-tag info like Rio Carbon, no software required)  - View photos  - 5-band custom EQ  - Choose MSC or MTP complient in the Settings Menu. First time we've seen this ability. Might as well stick with the Mass Storage Complient option unless you're a big fan of WMP10  - Damn near gapless MP3 playback  - Power output (volume) is very strong, like 50 steppings - Includes a protective case with belt clip and AC adapter (you don't get these with an iPod anymore) - Includes Sennheiser MX400 earbuds which are a lot better than you usually get for freebies  The Bad - No dedicated play controls, use the joystick instead  - Color screen is small (1-inch), colors are washy  - No FM radio or recording  - Can't view photos and listen to music at the same time - Battery life doesn't seem that great so far, like old iPod Minis - case does not have cut-outs for controls or screen  (...)  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:26
+[totalNum]:27
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00063EG0G/ref=cm_cr_dp_all_summary/105-3500110-2134062?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/101
+[textPath]:
+
+#####89
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA Lyra RD2765  5 GB Digital Jukebox with Color LCD Screen
+[title]:Disappointed
+[author]:Josue Omar Ortiz "Music Lover"
+[createDate]:Sun May 29 00:00:00 CST 2005
+[summary]:
+[fullText]:I recently purchased this product and expected a lot from it. The overall design is sleek and the advertised features impressed me. While the price tag is a bit steep, I nevertheless forked out the cash. To my surprised I was very disappointed by its performance. The USB cable was flimsy and didn't seem to fit my player properly, my computer would not recognize the device. I was forced to use an extra USB cable I had. While the music transfer was a breeze, my player began to get extremely hot in minutes. And froze on several occasions. While this might merely be one time malfunction, nonetheless for the 250 dollars I paid I expected a lot more. I would not recommend this product.  
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:3
+[totalNum]:7
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00063EG0G/ref=cm_cr_dp_all_summary/105-3500110-2134062?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/101
+[textPath]:
+
+#####90
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA Lyra RD2765  5 GB Digital Jukebox with Color LCD Screen
+[title]:How RCA Lyra works with Napster To Go
+[author]:Kris Kros "Kris"
+[createDate]:Sat Jun 11 00:00:00 CST 2005
+[summary]:
+[fullText]:How to make RCA Lyra RD2765 be recognized as MTP player and installed as Napster To Go device.  There are 2 settings you should check:  1) Be sure that your Protocol is set to MTP (Microsoft Transport Protocol) to insure that your device will work with N2G.   2) The correct MTP driver must be installed by Windows XP. If not, it will only be recognized as a USB Mass Storage device.  There are 2 protocols in this device: MTP & MSC.  You can switch between MTP & MSC if you are a Windows XP user. Unfortunately, old Windows O/S users like Win98 cannot make this switch. It will be fixed to MSC.  How to switch from MTP to MSC and vice versa.  1. From the settings menu, rotate the Control ring to select Advanced.  2. Push the Control Joystick to the right to view Advanced options.  3. The current protocol will be displayed.  4. Press the Control Joystick to switch be tween MTP and MSC.  5. Push the Control Joystick to the left to return to the previous submenu, or press the M button to exit the menu.    More information on MTP & MSC:  Why do I want to use MTP (Media Transfer Protocol) Mode?  MTP Mode is essential if you want to transfer DRM content to your Lyra Jukebox. Today MTP Mode is only supported in Windows XP and through Windows Media Player 10.0 or other special software provided by your music service provider. In MTP mode you Lyra Jukebox will no longer show up as a drive letter. So programs that were designed to work with a device that shows up as a drive letter will not be able to work directly with the Lyra Jukebox.  Why do I want to use MSC (Mass Storage Class) Mode?  If you are using Windows 98SE, ME or 2000 you can not use MTP Mode only MSC Mode is available. Your Lyra Jukebox will always show up as a MSC device.  If you are using Windows XP your Lyra Jukebox will show up as a MTP device, but we have provide you the option to be able to switch it to MSC Mode with a setting in the Advanced Options section of the Lyra Jukebox. Once this setting is set to MSC Mode every time you connect the device to the PC it will show up as a drive letter and allow you to use any software that can work with MSC Mode. This will also allow the current version of LyraDJ or any other playlist editing program to find the device.  All supported content put on the device in either mode MTP or MSC will be available to play on the device once it is disconnected from the PC. So you could add mp3 files in the  MSC Mode then run LyraDJ, Profile the device and disconnect it. Then switch it to MTP Mode and reconnect it and add DRM content to it.  
+[rating]:2.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:3
+[totalNum]:5
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00063EG0G/ref=cm_cr_dp_all_summary/105-3500110-2134062?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/101
+[textPath]:
+
+#####91
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA Lyra RD2765  5 GB Digital Jukebox with Color LCD Screen
+[title]:FIRMWARE UPDATE:MAY 18 2005
+[author]:Desdemona
+[createDate]:Tue Jun 21 00:00:00 CST 2005
+[summary]:
+[fullText]:Please go to RCA's website and download and install the lastest firmware update. Lots of enhancements and feature upgrades  Firmware:: RD2765 Lyra mp3 Hard Drive Firmware/Application Upgrade (Version 1.25)  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:4
+[totalNum]:5
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00063EG0G/ref=cm_cr_dp_all_summary/105-3500110-2134062?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/101
+[textPath]:
+
+#####92
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA Lyra RD2765  5 GB Digital Jukebox with Color LCD Screen
+[title]:it...
+[author]:gauge
+[createDate]:Tue Aug 02 00:00:00 CST 2005
+[summary]:
+[fullText]:personally i think that this thing is a great mp3 player if you intend to only have it for a few months, i've had mine for 3 months today, and so far the only thing that i've found is that is, wheel used for ajusting the volume sucks! and then eventually the little joystick will stop working and it is very hard to keep clean. It is currently in the process of being sent to the manufacturer so that i can be fully refunded my money.  
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:6
+[totalNum]:9
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00063EG0G/ref=cm_cr_dp_all_summary/105-3500110-2134062?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/101
+[textPath]:
+
+#####93
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA Lyra RD2765  5 GB Digital Jukebox with Color LCD Screen
+[title]:I'm not impressed
+[author]:txbari
+[createDate]:Wed Nov 02 00:00:00 CST 2005
+[summary]:
+[fullText]:My unit is actually the red one that is 4 GB but otherwise the same. I'm not impressed at all. Within TWO DAYS of gentle treatment the screen had a line through it. I didn't like the musicmatch software or synching with Windows Media Player. I DO like the hard drive factor  and once I changed it from MTP to MSC it worked better. I thought it was a good price for a 4 GB model, but I'm not sure I'm even going to keep it now. It is small and cute, but not very sturdy. I also can't find a case to fit it appropriately and still allow access to the controls. All the cases seem to be made for iPods.  
+[rating]:2.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:4
+[totalNum]:7
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00063EG0G/ref=cm_cr_dp_all_summary/105-3500110-2134062?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/101
+[textPath]:
+
+#####94
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA Lyra RD2765  5 GB Digital Jukebox with Color LCD Screen
+[title]:This thing is worhtless
+[author]:Susan L. Robertson
+[createDate]:Fri Dec 23 00:00:00 CST 2005
+[summary]:
+[fullText]:I bought this because Consumer Reports gave it a high rating.  I should have read the reviews here first.  It won't even connect with our computer using a USB port I use all the time and we've tried 3 cords, 2 of which are verified.  The device just says 'connecting' and windows says the device is malfunctioning.  I hope we can get our money back since we ordered it through an Amazon affiliate.  We've tried some of the settings suggestions posted here to no avail.  I would give it a negative star if that was an option.  Maybe it's just this one that is a lemon.  But this is a real disappointment as it was a gift for my husband and I spent a lot of time researching this purchase.  Paint me a sucker.  
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:2
+[totalNum]:6
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00063EG0G/ref=cm_cr_dp_all_summary/105-3500110-2134062?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/101
+[textPath]:
+
+#####95
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:RCA Lyra RD2765  5 GB Digital Jukebox with Color LCD Screen
+[title]:Terrible service
+[author]:M. Douglass
+[createDate]:Wed Feb 08 00:00:00 CST 2006
+[summary]:
+[fullText]:I am still waiting to receive my player from having it shipped off more than 1 month ago.  Got the player for Christmas, got it up and running with no problem.  Putting required software on my computer was a breeze.  I really like the sleek, shiny look of the player and it had good organization of files, etc.  Anyway, after about 2 days, got a message when I turned it on that "File system was corrupted."  Player was still under warranty, so I shipped it off to their processing HQ in TX.  They received my package (as shown by UPS) 4 weeks ago.  Called once, after 2 weeks, and they said it had not been logged into the system, but would get it taken care of.  Now, today it is still not logged into their system and I can call back in 24-48 hrs to check my status.  Calling in takes every bit of fifteen minutes of listening to horrendous Pan-flute music looped over and over again.  I think this would be a nice player, but customer service is sorely lacking.  I will write a real review of this player... if I ever get it back.  
+[rating]:3.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:2
+[totalNum]:3
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00063EG0G/ref=cm_cr_dp_all_summary/105-3500110-2134062?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1013
+[textPath]:
+
+#####120
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:iRiver PMC120 20 GB Portable Media Center
+[title]:iriver
+[author]:J. De Cou
+[createDate]:Sat Nov 11 00:00:00 CST 2006
+[summary]:
+[fullText]:Don't waste your money. What iRiver doesn't tell their customers is that once the battery goes dead, the system is useless. I will never buy one of their products again and I'm doing my best to inform everyone out there that they'll be tossing their money in the trash by purchasing any iRiver products. My system cost me $340.00 and it is now as useless as the customer service department at iRiver  
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:8
+[totalNum]:12
+[commentNum]:3
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006GVNSG/ref=cm_cr_pr_link_2/002-7062838-0111217?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1014
+[textPath]:
+
+#####121
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:iRiver PMC120 20 GB Portable Media Center
+[title]:I wish I could pick zero stars for this piece of junk!!
+[author]:astrotoy7
+[createDate]:Sun Jan 14 00:00:00 CST 2007
+[summary]:
+[fullText]:Unfortunately, when I bought this thing it was new on the market, so the horror stories that are seemingly abundant now weren't around to warn me off back then. Needless to say, I have been plagued by problems with my pmc-120 from quite early on. My pmc has since totally died and despite testing with new batteries etc, turns on but does not respond.... Rubbish!! considering I paid $300+ this is unacceptable.   To add insult to injury, iriver North America has not responded to my emails. Therefore, the warranty I paid for is effectively useless.Please don't buy this product. There are other portable media centers out there, like the toshiba gigabeat and the DreamEo, but I'm really not sure if they're any good either!! Like others here, I am doing my utmost to warn people away from making the mistake of buying one of these infernal contraptions.   A7  
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:4
+[totalNum]:6
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006GVNSG/ref=cm_cr_pr_link_2/002-7062838-0111217?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1014
+[textPath]:
+
+#####122
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:iRiver PMC120 20 GB Portable Media Center
+[title]:Pretty dang good
+[author]:A. Barrow "Killjoi"
+[createDate]:Sat Aug 18 00:00:00 CST 2007
+[summary]:
+[fullText]:I bought this product last week and found it to be simpily amazing there were only a few cons. 1. slightly bulky  2. case is ummm well i cant spell atrocious but thats close enough But the pros greatly outnumber the cons 1. massive storage 2. large 3.5 in screen 3. durable(i mean people are saying it breaks if you drop it duh drop an ipod it wont just break it shatters) 4. great battrie life 14 audio 5 video(and if your a music junkie like me i bought a spare battrie) 5. easy to control,buttons are easy to understand All in all a great product if you like movies and music with 20 gigs i currently have 17 movies on it with about 5 gigs left for music completly awsome although not quite small enough to fit in pocket if your a girl guys we have no problem remember bulge is good. Its not quite a five but most defiantly not a 4. So the you have it i recomend this to people who dont mind a little bulk for a little buck ha ha i made a funny.... man im wierd  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:1
+[totalNum]:1
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006GVNSG/ref=cm_cr_pr_link_2/002-7062838-0111217?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1014
+[textPath]:
+
+#####123
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:iRiver PMC120 20 GB Portable Media Center
+[title]:Great Media Player for the Price
+[author]:Hem
+[createDate]:Mon Sep 24 00:00:00 CST 2007
+[summary]:
+[fullText]:I purchased the PMC-120 in July 2007. It's very easy to use and there was plenty of storage space for me to store the material I wanted. There are over 2100 songs and 30 videos on my player with 8GB of space remaining. I was able to purchase it for a hundred bucks, so that made it that much more enjoyable. I would give the PMC-120 a five star rating, but it is to dependent on Windows Media 10. Maybe I-River can come up with a format that allows the PMC-120 to be able to sychronize with Windows Media 11 or higher? The video quality is excellent, and it is user friendly. Their tech support is decent, but they try to help you through any problems that may occur with the PMC-120. When you get your device there will be around 18GB on it. I'm thinking of getting the nieces and nephews one for Christmas or birthdays. It's a little bulky, but I'm pleased with the purchase. It normally sells for over $500.00, so you should hurry up and land one. If you want to waste your money, purchase an IPOD. Whenever I take a road trip I hook up the PMC-120 to the I-River FM Transmitter, and it's music non stop. The PMC-120 has a car charger, but it doesn't come with it. I bought my charger for $12.00 off of E-Bay.   
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006GVNSG/ref=cm_cr_pr_link_2/002-7062838-0111217?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1014
+[textPath]:
+
+#####124
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:iRiver PMC120 20 GB Portable Media Center
+[title]:iriver pmc 120 disapointing
+[author]:Jeremy Froese "jc"
+[createDate]:Sun Dec 30 00:00:00 CST 2007
+[summary]:
+[fullText]:pmc 120 wasn't worth the $100 I spent.  Music quality is fair but glitches frequently.  I've been unable to make it through an entire video without the player freezing.  The picture quality is low and did not meet my expectations.  
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006GVNSG/ref=cm_cr_pr_link_2/002-7062838-0111217?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1014
+[textPath]:
+
+#####125
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:iRiver PMC120 20 GB Portable Media Center
+[title]:  iRiver PMC120 20 GB Portable Media Center  
+[author]:Rex Gay
+[createDate]:Mon Jan 14 00:00:00 CST 2008
+[summary]:
+[fullText]:I purchased the iRiver PMC120 on 12/12/07 and gave it to my grandson as an early Christmas gift on 12/21/07.  On 12/23/07, the screen quit working and the inner screen has the appearance of being broken; however, there is no damage to the outer screen or any other part of the PMC and no reason to suspect that the PMC was abused.  I have returned it to iRiver, as instructed, and am awaiting their response.  Needless to say, I am not impressed with the product at this time and have not yet formed an opinion about iRiver's service since they were closed when the situation occurred, I was only able to initiate proceedings after January 2, 2008 and the issue is currently unresolved.  
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006GVNSG/ref=cm_cr_pr_link_2/002-7062838-0111217?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1014
+[textPath]:
+
+#####126
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:Had it over a year-still LOVE it!
+[author]:Whitney
+[createDate]:Mon May 29 00:00:00 CST 2006
+[summary]:
+[fullText]:I purchased this mp3 player because I wanted something tiny, without an internal battery to fail, and inexpensive in March 2005.  I still have it, and have used it about 20-40 hours per week, almost every week since I've had it, and it is still going strong.  I love it, the AAA battery lasts about 15-20 hours, and its easy to keep spares on hand-instead of having to worry about recharging the whole unit. I have a PC, and changing around files is a breeze. The rubber case it came with clips easily to waistband, belt, neckline, wherever you want it to go, and then you can forget about it-its not huge and bulky like certain other players (ahem, IPOD).   I highly recommend it. Over the last 15 months, it's been every where with me-art studio (had a near miss with paint, one day) working out, locked in the car in a hot texas summer, and dropped too many times to count, and it both works and looks as good as the day it arrived.  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:4
+[totalNum]:4
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_11/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=11&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1015
+[textPath]:
+
+#####127
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:Creative Labs does not offer customer support
+[author]:J. Morrow "Morrow610"
+[createDate]:Thu Jun 01 00:00:00 CST 2006
+[summary]:
+[fullText]:Purchased this MP3 player in April 2005.  Worked great for twelve months - then I had a problem - it was stuck in FM mode, and I could not turn it off (unless I pulled out the batteries each time).  Went to the Creative Labs web site for support - nothing there to help my situation - then I sent an email - and they told me that they WOULD NOT ASSIST ME, and then refered me back to the web site.  They also gave me a phone number to call - but that IT WOULD COST ME [...] EVERY 30 MINUTES OF "SUPPORT" THAT THEY PROVIDE!!!!   So now my MP3 player is no longer functional, and I need to buy a new one.  If you value customer service - STAY AWAY FROM CREATIVE LAB PRODUCTS  
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:3
+[totalNum]:3
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_11/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=11&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1015
+[textPath]:
+
+#####128
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:Great Mp3 Player
+[author]:Arjun
+[createDate]:Wed Jul 26 00:00:00 CST 2006
+[summary]:
+[fullText]:I had this Mp3 player for 1-2 years before I got my Ipod Nano. I never found anything wrong with it, and for the price I still think it is more worth the value than an ipod. I always reccomend the Creative over the ipod to friends on a limited budget. Here are a few pros and cons that I have noticed.  Pros:  1. This thing is TINY. Easily fits in your pocket, but just big enough to feel it (so you know its still there).  2. Very durable (Especially with the case).  3. Good Sound, never had a problem with scratchy noises or anything.  4. Voice recording is really cool, saves as a WAV file that you can upload on your computer.  5. FM/AM radio has very good reception.  6. The software that comes with it is awesome. Click and drag ripping similar to itunes, but better in that you can convert WAV and other audio formats into Mp3s (Very helpful).  7. Great battery life (better than my iPod's)   Cons: 1. Small screen (but this isn't really a problem considering how small the whole thing is).  2. No playlists, you have to scroll through every single song to find the one you want. I found this a little tedious, but it wasn't that bad because you can go through each song in like 1/2 a second (although that is a problem when you have a couple hundred songs).   Those are the only two cons that I can think of. Oh, and my headphones were magnetic for some reason, I don't know if anyone else's are like that, but thats kindof cool. Overall, I think the pros definetly outweigh the cons, and I would say for the great price, its one of the best out there.  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:4
+[totalNum]:4
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_11/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=11&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1015
+[textPath]:
+
+#####129
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:Couldn't be any happier with it
+[author]:Ricardo Cabral
+[createDate]:Mon Aug 14 00:00:00 CST 2006
+[summary]:
+[fullText]:I've been using it on a daily basis for more than 1 year already and it's really great. Absolutely no glitches so far (I've dropped it on the floor SEVERAL times), great battery life !  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:1
+[totalNum]:1
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_11/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=11&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1015
+[textPath]:
+
+#####130
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:Cheap, highly functional MP3 player.
+[author]:Jay LaBelle
+[createDate]:Sun Jan 28 00:00:00 CST 2007
+[summary]:
+[fullText]:The FM receiver is extremely insensitive.  You practically have to climb the transmitter mast and skewer the thing on the antenna in order to get it to receive a decent signal.  Other than that, it's great.  Battery life is about 2 weeks or so playing MP3s at reasonable volume for 4 hours a day.  Sound quality is better than expected for something packaged in a tiny block of molded plastic.  You will probably want better headphones than the ones that come with it, but the included ones are good for working out with, since you really won't care if you get them sweaty.  Of course, it would be better with more storage.  It is extremely lightweight.  Having owned a number of personal stereo type devices over the years, this is the only one that I consistently use.  The reason is that the size and weight make it convenient to be wired for sound nearly anywhere at any time.  I can easily stick it in any pocket while wearing the earphones, and forget that it is there.  (Aside from the fact that it is playing music in my ears.)  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:1
+[totalNum]:1
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_11/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=11&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1015
+[textPath]:
+
+#####131
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:I liked it until it died
+[author]:Leslie
+[createDate]:Fri Jul 13 00:00:00 CST 2007
+[summary]:
+[fullText]:I really liked this MP3 player when I first got it, except for the color. It was darker in person that it showed on the computer. Besides that, the MP3 player worked great. It was my first one I had gotten and it was easy enough to use since I mostly used it for workouts and just let it play in order. The first problem I had early on was that it would get stuck after 1 certain song I had on it. At first I thought it was just the song because I would power it off then power on and it would work fine on the next song. I probably had it about a year to a year and a half before one day it just stopped working. At first I thought it was the battery because it kept powering off, but when I put new batteries in it, it wouldn't turn on.   It might have been that it could have been easily fixed, but I just would rather go buy a new one instead of dealing with the hassle of fixing it for the price it cost.  
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:1
+[totalNum]:1
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_11/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=11&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1015
+[textPath]:
+
+#####132
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:This is a nice small MP3 player for the price
+[author]:Tracy Porter "Morning Glory Farm"
+[createDate]:Sat Dec 29 00:00:00 CST 2007
+[summary]:
+[fullText]:I got this as a gift for my daughter a couple years back and she still uses it to listen to music.  It navigates through the songs and playlists easily.  If you don't have a ton of music to store and you only need your favorites for walks, workouts, biking, etc, this is a great value for the money.  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:0
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_11/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=11&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1015
+[textPath]:
+
+#####133
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:Poor voice record quality...
+[author]:reader
+[createDate]:Thu Dec 23 00:00:00 CST 2004
+[summary]:
+[fullText]:...the sound quality when recording voice through the built-in mike is quite mediocre.  I had hoped for recording quality like the iRiver units (which is excellent.)  I'm returning mine, as this was an important feature for me.  
+[rating]:3.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:11
+[totalNum]:19
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_2/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1016
+[textPath]:
+
+#####134
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:Just Amazing
+[author]:
+[createDate]:Sun Dec 26 00:00:00 CST 2004
+[summary]:
+[fullText]:I got the Muvo N200 for Christmas. I previously had a Samsung Yp-35, and was more than satisfied with it. However, this blows the Yepp out of the water. Here's a list of some of the pros and cons I have found with the player.  PROS 1. The volume range is great. I have never had to turn it all the way up, so you wont have a problem with it being too quiet like some other players. 2. The folder starage is great. Instead of scolling throught a couple hundred songs, I can just go through a dozen or so folders. 3. Great size. The thing is tiny 4. The button interface on it is very well laid out. I can use it in my pocket, without haveing to worry about hitting the wrong thing. 5. The recorder and microphone are great. I particularly liked that you could change the bit rate right on the player. (bit rate: higher bit rate= better quality, but larger file, and vice-versa.) 6. The line in ias a great feature. 7. Really easy to use. Just copy and paste your files. 8. Completely customizable equalizer. 9. Great options for the player's diplay. Reversible screen, contrast, etc.  CONS 1. Like some other people commented, there is a buzz in the background when the light is on. However, you only barely notice if the volume is at lower than 23 or so. (the volume goes up to 40) 2. The ear phones, while they do sound pretty good, are HUGE. They definetly are not the most comfortable things in the world, but they soung pretty good, and you can always replace them.  Overall, I think that this is definetly an awsome buy. Personally, I don't think i will ever regret it. However, I've only had it for one day, so I'll change my review if anything comes up in the future. But as of rightnow, it is great.   
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:17
+[totalNum]:18
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_2/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1016
+[textPath]:
+
+#####135
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:Just one word: excellent
+[author]:H. Geraldino "hectorg"
+[createDate]:Thu Jan 06 00:00:00 CST 2005
+[summary]:
+[fullText]:I've purchased this item, and I must say that this is one of the best mp3 players (of its genre) i've ever tried.  The controls are easy-to-use, the sound is great and, what a beautiful design!  It has nothing to envy to any Mac product because of the design. Also, the recorder is a good plus (35+ hours)  In one word, excellent  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:2
+[totalNum]:3
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_2/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1016
+[textPath]:
+
+#####136
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:Quality Tiny Player
+[author]:Matt Nevland
+[createDate]:Mon Jan 10 00:00:00 CST 2005
+[summary]:
+[fullText]:I received the Micro as a gift after suggesting it to someone else.  I'd done a *lot* of research on MP3 players, and this one fit exactly what was needed--small, flash-storage, not too expensive, good quality.  After playing with it, I have to admit the research paid off.  The sound is great, the controls are easy to use, there are lots of options, the accessories are just what you need and the price is nice for how much they packed into it.    To answer the biggest questions I had before getting one....The FM works.  In fact, my wife seems to think it works better than her car stereo.  We had no problem picking up a radio station 70+ miles away (of course, that's in flat ND).  The included software does rip CDs without a problem, though the method for transferring previously stored MP3 is rather awkward.  It does *NOT* accept songs directly from iTunes.  You'll need to be...creative...to get that to work (iTunes downloads in MP4 and protects the file).  The thing is tiny and can go pretty much anywhere.  The protective case is a frosted white material (plastic/rubber/silicone) and covers most of what you want covered, but none of what you don't want covered.  Line-in and microphone are there and work, but aren't exceptional.  The earbuds sound okay, but are pretty big and will probably need to be swapped out.  Oh, and the dark blue version is a nice navy color.  The only things I'd consider changing (beyond the size of the buds) are giving it a replaceable USB-rechargable battery and making the volume buttons feel just a bit more solid.  Really not much of an issue though.  If I was going to buy another MP3 player for this price, there's no doubt I'd buy this one again.  Only thing better would be a 1GB version.  (Mine will be moving around alot, so I don't want a non-solid-state (iPod-type) player.)  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:11
+[totalNum]:11
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_2/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1016
+[textPath]:
+
+#####137
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:The BEST MP3 Player Money Can Buy Right Now
+[author]:J. Kent
+[createDate]:Fri Jan 14 00:00:00 CST 2005
+[summary]:
+[fullText]:I received this MP3 player for Xmas, after doing a TON of research, and this product is sublime.  I got mine for a mere $119 on amazon, new, and the shipping was free.  The sound quality is excellent, thought what people are saying about the white earbuds is true (can hurt after awhile.)  But once you get over that initial pain in your ear, the pain definitely goes away as you will be listening to sweet tunes.  The sound quality is definitely exceptional.  To use the line in feature, all you need is a stereo with a CD player, pop the CD in, press record on the MP3 (with the included cable attached), and you can go take a shower or do whatever you need to do, and the MP3 player will AUTOMATICALLY space each track for you!  So you don't need to sit there and press record for each track.  And I agree with the others, that the FM radio is top-notch.  Stations come in nice and crisp, and it even has a preset feature.  As far as the design, it is FLAWless.  NO SKIPPING.  Ever.  Impressively, it is very very tiny, mine is orange, you can adjust the LCD screen for a lefty or a righty, and the solid color selection is the frosting.  This little bugger is an intuitive DREAM because eventually, you can slip it into your pocket, and you can adjust volume, change folders/tracks or swith playing modes while it's STILL in your pocket!  It's THAT easy to use.  Very intuitive and you will catch on quickly.  It also scrolls the song titles and artists, which I appreciate very much.  The USB 2.0 cable that comes with it delivers seriously lightning fast transfers.   And as far as flash space, I can easily hold 10-15 albums on it.  I know that you can record from the FM radio, but I have yet to figure that out.  The only minuses are: I would trade it for a 1 GB version in a second.  And when the LCD screen is on, there is a very slight buzzing, though you can only hear it if you are in bed about to go to sleep, and even then, it goes away after 2 seconds and it doesn't bother me one bit.  I have to say that if you buy this product, you will NOT be sorry.  I carry it with me constantly and use it constantly.  So far this player only received excellent reviews, so you should get one.  It is the cheapest and the best.  And even if you don't consider the price, it is STILL the best flash MP3 player ever.  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:18
+[totalNum]:18
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_2/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1016
+[textPath]:
+
+#####138
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:Small, but ineffective.  Size does NOT matter.
+[author]:A. Royse
+[createDate]:Tue Jan 18 00:00:00 CST 2005
+[summary]:
+[fullText]:Although I love the size and plug-and-play simplicity of this player, I can't stand the way it works.  A perky customer support person at Creative told me that it was not designed to support "playlists."  What that means is that you cannot control the order in which songs are played.  So, if you are making a workout mix, you can't put the fast songs first and then cool down songs.  You can't listen to albums in their entirety or intended order.  You can't control anything about the playback experience.  So if you don't mind having Hayden and Hendrix mixed together, this is the player for you.  But if you want to experience music how the artists intended to be experienced, or how you intended when you made the mix, then steer clear of this one.  You will either be disappointed, or very frustrated as you change all the song names in your music library to "a" "b" "c" so that it will play as you want it to.  Bummer.  
+[rating]:2.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:14
+[totalNum]:28
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_2/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1016
+[textPath]:
+
+#####139
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:Stop looking and start enjoying this player...
+[author]:Ryan B.
+[createDate]:Tue Jan 18 00:00:00 CST 2005
+[summary]:
+[fullText]:If size, sound quality, and overall function are your priorities, then this is the player for you. I bought this player after weeks of contemplating and researching. Here's what I've found after 2 weeks of use:  Pros: Size (smallest I've seen) It has better sound quality than i-pods and ALL other flash-based players. There are multiple pre-set equalizers in addition to a 5 channel custom eq. After all, this is made by a company who makes premium sound cards!  Easy set up and use. Despite what one reviewer said you can put tracks on in order, you just have to understand how to use the program. The wheel for scrolling around the player is brilliant.  The belt clip/case and armband are very well designed and seem very durable.  The headphones are good, especially when compared to other (more expensive) players that barely attempt (i-river, i-pod, etc.).  Now for some cons:  Price, I paid $139.99 at Circuit City. I realize you can get it a little cheaper and it is competitive against comparable players but... if I didn't need the small size and reliability of a flash player for working out I would've spent another $100 or so and gotten a hard drive based player.   As previously discussed the volume button seems a little chinsy. (but at least everyone's is consistantly loose suggesting that there are no problems with quality control)  The software is a little invasive, it wants to be your next Windows Media Player, but is a feeble attempt. The default settings can be changed so it is strictly a support device for the MuVo.  That's it, if you are looking for a flash based player, this is definitely the right choice. I give it a 4.5 for the price thing but there is not option for that.   
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:8
+[totalNum]:8
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_2/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1016
+[textPath]:
+
+#####140
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:great
+[author]:J. Chinn "Happy Bunny"
+[createDate]:Sun Jan 23 00:00:00 CST 2005
+[summary]:
+[fullText]:excellent mp3 player.  extra small and light.  just drag mp3's over with or without folders. i like that it uses AAA batteries. one problem i had is it stopped responding, but after firmware update it works perfectly.  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:4
+[totalNum]:4
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_2/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1016
+[textPath]:
+
+#####141
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:More like 4 and a half stars
+[author]:Chip Leibovich "chip1978"
+[createDate]:Wed Jan 26 00:00:00 CST 2005
+[summary]:
+[fullText]:This isn't the perfect Mp3 player, but it's pretty good, especially when you consider the price. Overall, this player has more good features than it does bad.  It also has a number of features I doubt I'll ever use.  The Good: - Size - at 512 meg, it's not meant to hold your entire CD library.  It's a great player to take jogging.  It holds roughly seven or eight full albums. (maybe more depending on the quality of the mp3s) - File transfer - it's a flash storage device.  So to get songs onto your mp3 player simply drag and drop the files from your computer. - Size/weight - the thing is less than an ounce.  (Try holding two AAA batteries, that's how much it weighs with its battery).  It's about the size of a lighter.  - Strap and holder - comes with it's own velcro strap and rubbery holder. I-pod charges another 20 bucks for theirs. This player comes with a strap free. Free!! - Battery - while on the Ipod subject, this player uses one AAA battery.  I'm not sure how long it lasts, because mine still has juice, so at least several hours on one battery.  So, unlike the Ipod that has an internal battery and costs oodles of cash to replace, this comes with a AAA battery that's cheap and easy to replace (and it only needs replacing on rare occasions). - Sound Quality - uhhh...it's good and stuff - Price - Quite a lot of bang for the buck.  I've seen players with half the storage sell for the same price. Again: this player will not hold your entire mp3 library, if that's what you want, this player's not for you. - System compatability - some mp3 players (Ipod again), only work on Windows XP or 2000.  This one will work with Windows '98.   The Bad - Rubber USB port cover - it's flimsy and I just know it's going to fall off.  I don't think that'll affect the player, but I'd rather have a cover that worked and didn't fall apart. - backlight noise - with low volume (25/40), there's a perceptible buzzing noise whenever the backlight is on.  Of course, you can turn the backlight off, and it's completely unnoticable when the volume is turned up (mine' usually at 30 or so when jogging). - Track playing problems - a couple of tracks skip on this player, and other times whole albums would not play unless I transferred each individual track (instead of just dragging the entire album file).  - Ear buds - these furry things annoy me. They're okay for sound quality, but they're a bit uncomfortable. Ipod's are much better. I already had earphones for my old mp3 player, and I use them instead of the ones that came with this one.  Stuff I probably won't ever use - FM Radio - if I wanted an FM radio, I wouldn't have blown $120 bucks on an mp3 player! - file management software - even though you don't need it (see file transfer above), the player comes with its own mp3 management software.  Actually, I've used this some, and it's better than some (Rio, musicmatch); but it's still pretty useless. - microphone - The quality is OK, but why would anyone ever want to record their own voice into an mp3 player? Maybe I'm just narrowminded... - Mp3 ripper - this player comes with its own line that you can connect to a CD player to rip mp3's directly onto your player. If you're looking at mp3 players, odds are, most of your CDs are already ripped.  I have to say, overall I'm pleased with my purchase.  It's not perfect, but at the price it performs very well and avoids a lot of the pitfalls of other mp3 players. No it's not a 40 gig player that stores ALL your songs you ever heard.  It is a good value, and the perfect player to take to the gym.  ****UPDATE**** After 5 months, this product stopped working properly.  It skipped tracks, and played some but not others.  Customer support was a complete joke.    
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:12
+[totalNum]:16
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_2/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1016
+[textPath]:
+
+#####142
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Creative MuVo Micro N200 512 MB MP3 Player Light Blue
+[title]:Great for audio books
+[author]:N. Alegria
+[createDate]:Sat Jan 29 00:00:00 CST 2005
+[summary]:
+[fullText]:I was looking for a flash mp3 player that would work well for audio books.  I had briefly thought of buying the new Apple Shuffle, but realized that it really wouldn't suit my purposes well (who'd want to accidentally hit the "Shuffle" button in the middle of War and Peace?).    This one is excellent.  I signed up for Audible, and downloaded a couple of books.  The cool thing is that if you start to listen to one track, and then flip to a different one, it remembers where you were on the first track -- very cool.  I was able to listen to my Wodehouse book, and pass it on to my bored 8-old to listen to an interview with Lemony Snicket, then flip back and pick up my book right where I was.  It's very small, and the nice holster clips easily onto my jeans pocket.  With 512MB, it has plenty of space -- I've already put about 9 hours worth of material on it, and barely made a dent in the available space.  The only complaint I have is that while it has a place to slip on a lanyard, it does not come with one.  A fairly minor complaint.  All in all -- a great player.  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:9
+[totalNum]:9
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HJATY/ref=cm_cr_pr_link_2/002-0443842-6252803?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1019
+[textPath]:
+
+#####167
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:iRiver H340 40 GB Digital Music Player with Color Display
+[title]:Good Product With A Few Correctible Issues
+[author]:William F. Thompson "Bill Thompson"
+[createDate]:Mon Nov 08 00:00:00 CST 2004
+[summary]:
+[fullText]:The H340 is the newest 40 gigabyte digital music player from iRiver, long a leader in MP3 type players. The unit is well built and does what it's supposed to do. It has very high sound quality and is fairly easy to use once you get over the initial short learning curve. Besides playing music files the system also allows you to store digital pictures and ebooks. The color display seems to be of good quality. File management is easy as the H340 hooks into your computer with a standard USB cable and allows you to create, move, and rename folders just like you would do on your internal hard drive. Moving music files is just a matter of dragging them into the folders. Setting up a play list is a snap using www.winamp.com which iRiver recommends.       The only reason I didn't give this 5 stars is that there are a few areas for improvement. The first is that the supplied ear buds are just average. I replaced them with Sennheiser PX100 headphones (approx $40) which I have found to be some of the best sounding headphones on the market for portable music players. Another issue is the supplied case. Although it is of good quality you have to unsnap and remove the H340 from the case every time you want to access the controls. Hopefully iRiver or someone will come up with a case with a front access flap that fastens with velcro or something. Also the manual really isn't very good but it isn't too hard to figure the player out. Another issue I have is that it takes about 2 minutes for the H340 to load the 12 gigabytes of music that I have on it but once I got used to that it's not really a bother.      As far as a few other things, right now you can't look at pictures and listen to music at the same time although the unit's firmware is upgradeable so hopefully iRiver will add that in the future. Another issue is that the version of the H340 that has been on sale in Europe for several months allows you to download pictures directly from a digital camera into the H340 but the newer USA version requires that you download your pictures to a computer and then to the H340. I'm not sure why this is unless iRiver had some problems with the direct connect.      Overall this is a good unit somewhat ahead of the Apple IPod (At least as of today, things change quickly). If you are looking for a good portable digital player I would recommend the iRiver H340 or the H320 which is the same unit in a 20GB version for about $100 less.         
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:119
+[totalNum]:127
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00065W74Q/ref=cm_cr_dp_all_summary/104-0206393-7574363?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/102
+[textPath]:
+
+#####168
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:iRiver H340 40 GB Digital Music Player with Color Display
+[title]:Fantastic - if you're a geek
+[author]:Simple Simon "S S"
+[createDate]:Mon Nov 22 00:00:00 CST 2004
+[summary]:
+[fullText]:My wife has an iPod which she takes with her everywhere.  I used it several times, and I liked it for what it was: a dedicated mp3 player.  However, when the time came for me to get one, I decided to go with the iRiver H340.  I bought it about 1 week ago, and have been tinkering with and using it from morning to night ever since.  Here's my take on it.  Warning:  If you buy an iRiver H340, prepare to don your geek beanie.  Here's why:  1.  Button commands need to be memorized.  It took me all of 20-30 mins to go through the manual and figure things out.  There's a directional pad and 5 buttons, but the buttons have multiple functions depending upon whether you push them quickly, hold them down for a while, where in the menu tree you are, etc.  I personally found the learning curve relatively easy, but this is no iPod (which practically anyone can use right out of the box).  As for me, a 20-30 minute up front time investment is no big deal, and I like having the extra controls (e.g., almost 10 different shuffle and repeat commands).  2.  The user interface is NOT elegant (for elegance, see "iPod").  There's a bit of a half-finished, work-in-progress feel to the H340.  For instance, you can't view pictures while listening to music.  It's strictly either-or.  The music search function is in no way as easy to use as iPod's, either.  There's a default file tree, which is essentially Windows explorer function.  You literally search through folders and filenames (e.g., "beethovens5th.mp3") to get to songs.  I still haven't been able to get the artist/album/genre/song search functions to work, so I can't comment.  3.  Weight/size.  The H340 is about the same length and width as an iPod, but it's perhaps twice as thick and somewhat heavier too.  Not that we got the bad stuff out of the way, and scared off the iPodders, let's get to the stuff I like.  1.  Fantastic array of functions.  The voice recorder uses the external mic built into the H340 to give you stunning recordings.  There's more recording options and settings than you can shake a stick it (although I have seen some reviewers rue the lack of some advanced functions - but it's not like I'd know what they were in the first place).  The Photo Viewer is crude but handy.  There are some file size restrictions you have to observe.  Also, unless the pictures fall into a narrow range of dimensions, the picture will not fill up more than 50-60% off the LCD screen.  It almost makes you wish for a zoom function.  Still, I like it just fine (again, not iPod level, but good enough).  And the LCD screen is gorgeous, with high resolution, contrast and brightness.  It's perfectly readable in daylight.  The Text Viewer is nice, but is limited only to .txt files.  I don't plan on using it a lot, but it's nice to have.  I'm sure iRiver will come out with additional functions in future firmware releases.  The Browser function allows you to use the H340 as a storage drive.    2.  Plug 'n Play.  You just plug'n'play this puppy into any computer.  No CDs or drivers to mess with.  It goes right into the USB port of any computer and Windows will automatically recognize it.  BIG PLUS in my book.  And loading music into the unit is as simple as copying and pasting or dragging 'n dropping files from the computer right into the unit.  The H340 just appears as another drive on your desktop, folks.  This was critical to me, because I plan to use the H340 as much more than a mere mp3 player; i.e., I'm a lawyer, so I will be using this to record witness oral statements, take digital pictures and plug my Nikon camera right into the H340 to download the pics and view them (USB on the go rules!).  Note, you have to install and use 3d party software in order to extract music files from the iPod.  3.  Great hardware.  Fantastic sound (beats the iPod by a MILE, came with Sennheiser earbuds too!).  The LCD screen is gorgeous, as I mentioned above.  The hard drive storage is more than most people will ever need, whether 20 or 40 gigabytes.  The hard drive runs nice and quiet too.  The battery life isn't the 16 hours advertised, I've been getting around 9-10, but I figure the battery just needs to be broken in.  It still beats the iPod by a mile.  Ok, I gotta go, but I hope this helps people.  If I have time, maybe I'll come back and expand on this review.  IN SHORT, I love this unit.  It's perfect for me and does everything I need.  People who are just looking for an mp3 player only should consider iPod.  If you want power, awesome sound quality, battery life, large array of functions, and are willing to put up with some minor inconveniences, then get this.  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:70
+[totalNum]:71
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00065W74Q/ref=cm_cr_dp_all_summary/104-0206393-7574363?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/102
+[textPath]:
+
+#####169
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:iRiver H340 40 GB Digital Music Player with Color Display
+[title]:Great player - but could use improvements in firmware.
+[author]:Kenneth Scott Davis
+[createDate]:Sat Nov 27 00:00:00 CST 2004
+[summary]:
+[fullText]:I've purchased my HD-340 last week, having upgraded from my RioRiot (20Gig).  It does everything it claims to do and quite well.  The sound output is sufficient to drown out any other noise and the all the equalizer settings from SRS Labs really fills the sound quite nicely.  The screen display is bright, even in daylight and displays JPEG images from my 4 MegaPixel camera without conversions.  However, you might want to CAREFULLY read the specs and the manual:  1) there are two USB ports, one for Media and another for Data.  The Media port is USB 1.1 and the Data port is USB 2.0.  This is important because if you use a software plugin that recognizes the iRiver as a media device, you only get USB 1.1 (using the media port).  However, if you plug in the data port, the device shows up as a driver letter in Windows with USB 2.0 speed.  Use normal file copying to get your music over, or else you'll be spending days.  Don't worry, if you install the software, you get a program which runs each time you connect into the data port, which (re)builds the ID3 database on the device.  2) It would be nice if there was an option to display the Album Art in a MP3 file in the glorious display.  Hopefully a firmware update?  3) Browsing and selecting files to play can take more time than necessary.  It would be great if you could select by first letter and get to a subset.  If your artist name starts with an "L", expect to scroll through half the list, either way you go.  Hopefully another firmware update????  4) Accessories are not yet available (Nov 26, 2004) except for a better case, which also shows the screen.    5) The included case is extremely sturdy and protective, but only allows access to the "top" connections, the "lock" button on the side and the microphone on the other side.  You have to remove the device from the case if you want to change anything (although this should be understood, since the controls are in the center), but a clear plastic window could provide access to these buttons.  Although it sounds like I don't like it, that is far from the truth.  A better case and a small firmware patch would make it perfect.  The FM tuner and the ability to record via line-in, mic and tuner, the display, and the fact that the controls are flush with the unit and less likely to get damaged make this far better than any other harddrive based player out there.   
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:32
+[totalNum]:33
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00065W74Q/ref=cm_cr_dp_all_summary/104-0206393-7574363?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/102
+[textPath]:
+
+#####170
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:iRiver H340 40 GB Digital Music Player with Color Display
+[title]:iRiver H340 vs. Apple iPod Photo
+[author]:S. Shah "Hi-Fi 4 Ever"
+[createDate]:Thu Dec 02 00:00:00 CST 2004
+[summary]:
+[fullText]:First I'd like to say I'm more than impressed by iRiver's latest HD based music player.  I researched several products to find which had the most to offer.  I wound up purchasing the H340 and have had it for about a month now.  Here's what I found vs the iPod (I'm using this as a benchmark product since everyone asks "is it better than an iPod?")   The H340 has the following features: The H340 supports MPEG 1/2/2.5 Layer 3, OGG, WMA, ASF 8Kbps ~ 320 Kbps (OGG: 32Kbps ~ 500Kbps) ID3 V1, ID3 V2 2.0, ID3 V2 3.0 The iPod does not support OGG and some of the new ID formats.  The H340 has a built in multi-region FM tuner with presets (with autoscan), the iPod does not.  The H340 is firmware upgradeable which is very important.  If a new format for music comes out or they want to tweak something upgrading the firmware is a cheaper alternative than buying a new device.  If you search around the internet, there is a firmware upgrade that will let you play video**.  Yes real video.  **However, upgrading to a non-US version may void your warranty.  I've tried it myself and it works for me. The iPod does not play video, yes that includes the new iPod Photo.  There is a hack out there for the iPod where video is crudely played using a 1 picture per second playback but that is not true video!  The H340 functions as a portable hard drive the iPod does not. (That is without the help of additional software the Ipod cannot store files directly like the H340)  You can store not only music, photo and video files on the H340 but you can keep your documents and any other files on there as well!  And unlike the iPod you do not need software to plug the device into another computer.  Plug it into a USB2 port and it will show up as another hard drive!    It has a really high quality voice recorder with built in mic the iPod does not.  Also, you can record radio, voice or anything from the line directly to a MP3 files using only the H340, no software or PC needed!  The screen sizes on the iPod Photo and H340 have the size, 2inch color.  However, the H340 supports 260k colors vs. IPod Photo's 65.5k colors. The screen on the H340 can be so bright and clear I sometimes need to turn it down to the lowest brightness setting!  As for sound quality, absolutely incredible! The H340 comes with SRS WOW 3D sound technology built in.  It also has equalizer presets to chose from or create your own settings.   The unit can be charged in 3 to 4 hrs via USB or the power adapter and battery life is 16 hrs!  The iPod Photo takes 4 to 5 hours to charge   The Cons... The iPod is thinner and a tad lighter, but it's like comparing a pack of cigarettes to a pack of playing cards (iPod).  I don't mind the H340 being a little thicker.    The iPod has the brand awareness, so if you're looking for the instant recognition factor, iRiver is not yet there.  Form (iPod) vs. Function (H340)!  The slideshow feature on the iPod Photo is better as it shows more thumbnails of photos, but keep in mind this may be fixed on the iRiver via firmware if iRiver chooses to do so.   In summary, the H340 offers FM playback, firmware upgrades, picture playback, video playback** (See note above as it does not ship with this functionality!), voice recorder, MP3 encoder for recording directly to it, color screen capable of 260k colors, incredible sound fidelity, is a portable hard drive with no software needed to use, awesome battery stamina and costs less than the iPod 40gb Photo version.  As with anything, do your own search and see if my opinion matches your own.   
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:363
+[totalNum]:377
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00065W74Q/ref=cm_cr_dp_all_summary/104-0206393-7574363?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/102
+[textPath]:
+
+#####171
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:iRiver H340 40 GB Digital Music Player with Color Display
+[title]:Take care if the size is important for you
+[author]:Tusko J.
+[createDate]:Thu Dec 09 00:00:00 CST 2004
+[summary]:
+[fullText]:I am not adding anything to the great reviews of this product. I like all its features. However, the amazon review is incorrect describing the size of this puppy. The h340 is bigger than the h320, but the amazon description is the same! The h340 is like 0.2 inches thicker than the h320. No it's not a great difference, but somewhat makes the h340 bulkier than the h320. I own the h320 and I got the h340 from amazon, expecting a similar size and found the increased size a bit dissapointing. Anyway, a great product.  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:9
+[totalNum]:11
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00065W74Q/ref=cm_cr_dp_all_summary/104-0206393-7574363?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/102
+[textPath]:
+
+#####172
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:iRiver H340 40 GB Digital Music Player with Color Display
+[title]:One MP3 Player that will Rule them All
+[author]:T. Chariya "tc"
+[createDate]:Fri Dec 17 00:00:00 CST 2004
+[summary]:
+[fullText]:I am writing this review as I listen to U2 - Hasta La Vista Baby album on my iRiver H320...the sound is amazing.  I have owned an eDigital Treo 15, then upgraded to a Creative Labs Zen Jukebox 20 w/FM Tuner.  When I decided to upgrade, I took over 4 months researching for my next generation 1GB+ mp3 player purchase.  What I was looking for was something that had storage space, on-board FM Tuner, recording capabilities and most importantly great sound.  I considered Rio Karma, Creative Muvo2 w/hack 2GB CF card, iPod Mini, iPod, iPod Photo and a slew of other mp3 players available outside of the USA.  I know some of my considerations didn't have all of the above, but I would have sacrificed space for sound, functionality for looks...etc.  But just in the last few weeks, I came across this website www.misticriver.net .  It is _THE_ user forum for iRiver products. I considered their mp3 flash devices, but not their hard drive based device, until I read their thread on how the H320/H340 can play video if you flash the bios with the European or the Korean or the Japanese bios upgrade.  My jaw dropped!  And it is still dropped...and I'm still drooling.  You have to understand....I'm a closet geek.  I like my electronic toys, I do my research and I recommend the heck out of products that impress me.  I am going to do this now.  First things first...go to the webpage above and read it for yourself.  The H320/H340 plays converted video files.  That's right!!! Convert your DVD's to AVI files; transfer then to your H320/340 and boom....play your videos on your MP3 player.  The website tells you exactly how to do it.  I addition to DVD's, I've converted several hour episodes of Stargate shows and have watched them on my H320.  I've got a whole slew of them queued up for my 4 hour flight to LA.  So with that amazing ability out of the way, I'll briefly review the H320/H340 for you.  Out of the neat package comes a shiny black brick with a big 2" COLOR screen.  It comes with earbud headphones, protective ballistic nylon case, AC power supply, USB2.0 cable, audio cord (line-out) and cd-rom and nice instruction book.  IT DOES NOT COME with a docking station, LCD remote or the external battery pack...all of which you can buy from the iriver store.  Charged the unit for 2.5 hours and plugged the USB2.0 cord into the slot labelled `data', it connected at USB2.0 speeds (the one labeled media is USB1.1 and is intended for connectivity with Windows Media Player).  I first upgraded the BIOS to something that is NON-US.  After  reboot, the new bios took immediately.  I lost the functionality of a clock on the H320, but that's ok...I have a watch.  I lost the ability to manage my music with Windows Media Player....that is ok..I prefer to arrange my own music with other programs.  But I did gain the ability to play videos and the USB1.1 port turned into a USB on the GO, which you can connect to other USB ported devices (like digital cameras) and transfer files from those devices-I haven't used USB2Go yet, but it does look promising.  I quickly scanned over the Owner's Manual, turned on the H320.  I connected as anoher hard drive device WITHOUT having to install any additional drivers. I proceeded to load MJ's Number Ones as my test music, since he has a variety of sounds to test the H320.  Speed was fast.  Unplugged the H320 from my computer and plugged in my Sony MDR-EX51LP (sound isolation ear buds for $40).  Hit the ON button...then hit NAV to navigate to the mp3's I downloaded...and was amazed at what the stock sound from the H320 sounded like.  WOW.  So I tweaked the sound a bit..increased the base..it has SRS(WOW) settings, so you can tweak the low-mid-high ends of the music as well as increase the thump.  Very cool.  Even at the default level 20 (30 is the highest), it was pretty loud.  Very very impressed.  So then I loaded a `converted' episode of Stargate Atlantis and started to watch it; very very smooth video display as well as great sound.  Anything can be converted to AVI for this player as long as you have CODECs for conversion.  And then I loaded some of my pictures onto my H320, they weren't formatted for the h320 display so they weren't awesome, but good enough to show off!  But when I reformatted my pictures for the H320 the pictures turned out awesome on the 2" display.  Again the visual display is beautiful.  ID3 tags (or not) show up nicely as well as volume strength display for both ears (a mini spectrum analyzer?)  So navigating the device Set-up menu, you can set the FM-Tuner regions, LCD contrast,  LCD brightness, LCD power off, ways of ID3 tag scrolling, sleep-stop-standby power down times, types of shuffle, repeats, random, set the study mode that allows you to fast forward through songs and videos and much much more!  The battery time has been tested..if you play mp3's only with SRS off and very minimal LCD use, you can go to 15 hours.  The average seems to be 9 hours, I've had mine on all night plugged into my home receiver through the line out port and playing.  The rechargeable lithium-ion battery is replacable, take out a few screws and you are set.  There is a HOLD button.  Also it charges off of USB cable to your pc/laptop.  There is a small learning curve to the buttons, and I must say its not as smooth as the touch pad of the iPods, but I prefer to have some tactile feedback when I hit the buttons.  So, now I don't have to buy a media player for the plane, nor do I have to drag out my laptop to play dvd's..just convert them at home (which takes a bit of time..but lots of support online on how to do it right) and load them on my player before a plane ride.  The H320 is bigger than the regular iPod but smaller than the iPod Picture.  It fits nicely in the palm of my hand, doesn't feel flimsy at all.  I haven't tried to record voice yet, but people say its pretty crisp and the default mic pics up everything.  In addition, you can record from FM Tuner as well as record from Line In (mic or other audio devices).  The FM tuner (with autoscan and store of stations) picked up 20 FM channels, my stock car stereo only picked up 14 channels.  It can also read text files.  I'm not sure where iRiver is going with that...could be interesting.  So, the NEGATIVES (more like annoying to me) things about the H320/340.  1) I must be a greasy guy, because I'm cleaning the finger prints from it a bit 2) coverting the videos to AVI can get time consuming at first, but once you get it right, its set-it-and-forget-it 3) I bought a 20GB one 4) the US VERSION doesn't play videos UNLESS you flash the bios to another region BIOS-Korea is the best here 5) it didn't come with a power/USB docking station, but you can get one for $30 6) the case/holder only protects.  That's about it...just annoying things to me that can be quickly resolved with $$ or reading around on the internet.  If you are already reading this far, you are doing your research and doing a little bit more reading at http://www.misticriver.net will give you all the information you would ever need to make an informed decision.  I don't hate iPod at all, I'm a bit jealous for the styling, but now after XMAS 2004, everyone will have one; but not everyone will have a iRiver H320/340 THAT PLAYS VIDEOS!!!!!!!  I would recommend you go to your local Best Buy and get a feel for it.  The sales people at BestBuy will tell you to by iPod.  They won't tell you anything about the iRiver and how you can flash the bios and play videos on it, and all of this for $300 for H320 and about $400 for the H340.  I'm sorry this has been a long post, but I just can't stop talking about this thing.  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:69
+[totalNum]:74
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00065W74Q/ref=cm_cr_dp_all_summary/104-0206393-7574363?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/102
+[textPath]:
+
+#####173
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:iRiver H340 40 GB Digital Music Player with Color Display
+[title]:Good gadget, but literature misleading!!
+[author]:S. Monroe "gadgethead"
+[createDate]:Wed Dec 22 00:00:00 CST 2004
+[summary]:
+[fullText]:I purchased the H340 last week.  Every piece of literature I read said the H340 plays WAV files.  Even the box it came in says it plays WAV files.  It doesn't!!!!  I'm an audiofile and store my CD collection on my PC in WAV format.  I was hoping I could simply copy these files to the H340.  Since it doesn't play WAV files (yet anyway, maybe a future firmware upgrade will add this functionality), I've spent hours ripping my CDs to MP3 files at 256 kbps.  Amazon.com offered to let me return the unit since the literature was misleading.  I've not yet decided though.  I do like that it includes a FM tuner, picture viewer, and color display, all for less than the price of a 40 GB iPod.  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:13
+[totalNum]:17
+[commentNum]:1
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00065W74Q/ref=cm_cr_dp_all_summary/104-0206393-7574363?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/102
+[textPath]:
+
+#####174
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:iRiver H340 40 GB Digital Music Player with Color Display
+[title]:User Hostile
+[author]:Russell Weisfield
+[createDate]:Tue Jan 04 00:00:00 CST 2005
+[summary]:
+[fullText]:Despite the praise given to the iRiver, a prime reason to buy this device, is to show it to other designers as to what not to do when designing.  Before describing why it is bad, here is a quick run down of what it offers. It has lots of features. Beyond playing mp3 and wav files, it has an FM tuner, recording device, picture viewer, file storage, lines in, lines out, and even a carrying case.   It can also  be found for a comparitively reasonable price.  So why is it annoying to use. Well first, the buttons are small and close together. When the volume was to high once I went to lower it but manged to hit the nav button. I then was in navigation hell and couldn&#8217;t get out resulting in my ears being blasted into deafness. As for the Nav button, its not even the only Nav button. In fact sometimes, you have to hit the left arrow button or even worse, the record button. Of course, if you do not hold the record button long enough to get to the correct nav screen, that&#8217;s right you start recording when you don&#8217;t want  to.  When listening to the radio, it is not even easy to change between preset and non-preset channels. Therefore you may not get to the channel you want.  Of course, one might just buy it for listening to music. Frankly, when buying a digital music device I want an interface that&#8217;s a little bit more than a standard file tree. It has metadata such as artists and albums, it should not be hard to get to them and have all their songs play. With the iRiver your stuck to navigate through sometimes lengthy file trees.  In a nutshell, if you need lots of features, this may work for you. You will, however, have to deal with an incredibly user unfriendly device.  
+[rating]:2.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:5
+[totalNum]:21
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00065W74Q/ref=cm_cr_dp_all_summary/104-0206393-7574363?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/102
+[textPath]:
+
+#####175
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:iRiver H340 40 GB Digital Music Player with Color Display
+[title]:THIS IS A VERY GOOD MP3 PLAYER
+[author]:L. Walker
+[createDate]:Thu Jan 06 00:00:00 CST 2005
+[summary]:
+[fullText]:I HAVE READ ALOT OF THE REVIEWS ON THE IRIVER, AND I CAN ONLY SURMISE THAT : SOME OF THESE PEOPLE DO NOT OWN THE IRIVER PLAYER, OR THEY WORK FOR IPOD. SOMEBODY SAID THAT THE SOUND WAS MUFFLED. WELL THEY MUST WORK FOR IPOD. ALL DIGITAL SOUND IS CLEAN. IT'S THE BIT RATE THAT PLAYS A LARGE PART IN THE QUALITY OF THE SOUND, AND THE SPEAKERS YOU HEAR IT THRU.  IRIVER HAS TERRIBLE EARPHONES. I USE THE SONY MDR SERIES AND THE SOUND IS VERY CRISP. AFTER ALL WHAT YOU HEAR IS THE SPEAKERS, NOT THE MP3 PLAYER. SOME PEOPLE HAVE SAID THAT IRIVER OVERSTATED THE BATTERY LIFE. IN THE MANUAL IT SAY'S THAT 16 HOURS OF BATTERY LIFE IS EXPECTED AT 128 BIT RATE. MOST OF MY MUSIC IS BETWEEN 192 AND 600 BIT RATE. DO I GET 16 HOURS OF BATTERY LIFE? I DON'T KNOW, AS I CHARGE IT WHEN I'VE USED HALF OF THE LIFE. FOR ME THAT'S ABOUT 5 HOURS OF USEAGE.  DON'T LET BIG INDUSTRY (IPOD) CONVINCE YOU THAT THEY MAKE A BETTER MOUSETRAP, THAT'S JUST HYPE.       
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:8
+[totalNum]:16
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00065W74Q/ref=cm_cr_dp_all_summary/104-0206393-7574363?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/102
+[textPath]:
+
+#####176
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:iRiver H340 40 GB Digital Music Player with Color Display
+[title]:A firmware upgrade could bring this close to perfection
+[author]:A. Curran "a_curran"
+[createDate]:Fri Jan 07 00:00:00 CST 2005
+[summary]:
+[fullText]:I did a lot of research on MP3 players before settling on the H340 and I am very happy with my decision. I decided against going with an iPod because of the built in restrictions on sharing between computers and the way it adds some encoding to all the mp3 files so that it cannot function effectively as a backup of your music. None of this nonsense with the iRiver H340, just plug it in to any computer's USB port and it shows up like a hard drive, no software required (except for Win 95/98 which requires a driver, and I can't speak for the Mac end of things). This is super convienient and the way that all MP3 players should work in an ideal world. I also strongly considered the Creative NX Xtra since it is available in a 60GB drive and I have a ton of music files but the reports of poor reliability and faulty headphone jack made me steer clear of that one.  The H340 feels very solid and sturdy and I find it quite intuitive and easy to use. To me the sound quality seems good with the supplied ear phones and I have not found the need to change them. It has some nice bells and whistles like built in radio and a recorder (and yes you can record from the radio).  So now on to the reasons why I give it 4 instead of 5 stars. It's called a jukebox right? What's a juke box? All the jukeboxes I know are music playing machines where you can select and line up the songs you want to hear and all the songs selected will play in the order you selected them in. But that's not the way this little machine works. You can only line up one song to play while another is playing. You can not line up a series of songs to play without hooking it up to your computer and creating a playlist. For me that is the number 1 negative with this player. However the firmware is upgradable and there is some glimmer of hope that my player may be able to have this very impotant missing feature added some time in the future. The other negatives are just minor gripes. The way it recharges from USB is badly implemented, when recharging it cannot connect as a drive and vice versa. If you plug your unit into the USB by default it will start charging and you can not do anything with the player. In order to connect to your computer you must  disconnect it, power it up, and change the USB charging option to turn it off. So it is best just leave USB charging turned off alltogether.  I have taken up much of this review with negatives but I must stress that I am very happy with my purchase and I think the H340 is a wonderfull little device which could use a firmware upgrade to make it damn near perfect. Highly recommended.  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:19
+[totalNum]:19
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B00065W74Q/ref=cm_cr_dp_all_summary/104-0206393-7574363?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1020
+[textPath]:
+
+#####187
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Apple iPod 4 GB mini M9800LL/A (Silver)
+[title]:Now a part of the iPod craze!
+[author]:R. K.
+[createDate]:Mon Mar 21 00:00:00 CST 2005
+[summary]:
+[fullText]:Trust me, I was the LAST person to buy an iPod. I was perfectly happy with my iRiver H140 (which I still love), and was sick to death of seeing those white headphones everywhere! But then I decided to get a tinier player for my walks to class and such. I tried out different smaller players and they all had some type of defect. An iPod Shuffle wasn't an option as the thing doesn't even have a screen. When these second-generation minis came out, I was blown away by the specs: supposedly 18 hours of battery life, price cut down fifty dollars, etc. So I went ahead and bought the blue version and yet to have any regrets. My review:  PROS:  // I did a battery test on this the afternoon I bought it. It wasn't even charged to full capacity, and on top of that, I played with it a lot, and it still ran continuously for about 23 hours. Amazing. One of the reasons I was hesitant about getting a first-generation mini was its battery life (about eight hours, I believe). Apple has definitely improved on this feature.  // iTunes, the software that you use to put music on your iPod, is great. You can make it automatically sync to your iPod or manually update. I choose the latter option as I have more music on my computer than will fit on a 4GB player. I thought having to use software would be annoying in comparison to hooking a player up like a regular hard drive and using the file tree method, but iTunes is simple and gets the job done. There are other programs you can use to manage your iPod, like MusicMatch, but iTunes seems to be the least clunky to me. Also, you DO NOT have to buy from the iTunes music store to work your iPod. You can even hide this option on the sidebar if you wish and make iTunes solely a music manager.  // So tiny! I have to admit that when I opened the box, I exclaimed, "It's SO cute!" It's basically the size of a credit card. A little slimmer, a little longer, but you get the idea. Even the package it comes in is very compact!  // Sound quality is absolutely superb. You'll listen to songs that you've heard on your computer or other MP3 player or whatever and hear nuances that you haven't heard before. Like I said, I have an iRiver, and while that has amazing quality too, you'll be surprised how crisp this little device sounds.  // Plenty of features. Notes, contacts, games (Music Quiz, Solitaire, Brick and Parachute), clock, alarm... I have yet to use any of these extras but I guess it's nice to know that they're there in case you do. I think more efficient features would be voice recording, FM tuner, etc.  // Scratch-resistant. All of my friends' iPods are scratched up like you wouldn't believe. The mini has a lot more resistance to scratches as it has an anodized aluminum case.  // Inuitive design. Everyone knows about the click wheel. I've handled lots of different players and Apple really wins in this area. The controls are underneath the wheel, so you don't have to worry about buttons bulging out on the exterior.  // Colors-- this is a pretty trivial point, but I was initially disappointed when these "new" colors came out. I thought the earlier model pastels were much prettier. However, now that I actually have one (photos don't do justice), I think my blue one has a gorgeous, rich hue, and I imagine this is the same for the green and pink. No complaints in the aesthetics department from my end.  CONS:  // No support for WMAs. iTunes will import these as their own format, which might result in a sound degradation. I had to rip a bunch of my CDs as MP3s just to retain original audio quality.  // Apple really skimped out on the accessories. I'm used to getting a bunch of add-ons with my player for free, like a case and adapter. The mini includes a clip-on holder, headphones, and your charging cord, but that's pretty much it. HOWEVER, to Apple's credit, you can charge your iPod without an adapter (right from USB, or Firewire). Plus, to get these 4GB models down cheaper than they were before, it makes sense that they cut out the superfluous items.  // This will be a minor issue for most people, but when you're in your menus (like listings under Songs or Albums or wherever), the titles don't scroll. So if you have a lot of songs that start with the same string of words, you're going to have try them all to see which one you're looking for. On the actual now-playing screen, they DO scroll, it's just that in the menus they don't. Like I said, this won't affect most people, but it did kind of annoy me when I first saw it as all other players I've worked with scroll titles in menus.  SOME THINGS TO KNOW:  // The iPod never actually shuts off. I know that when I first got this, I was like, "Where's the stop button?!" You can put it to sleep by holding the play/pause button down for a few seconds, but it will never actually be turned off. This is a smart move made by Apple because if you were to continually shut off and restart everytime you wanted to use it, not only would it take a long time to boot up, but it would wear down its interior.  // iPod doesn't give you a straightforward way to copy your music back onto your computer after putting it on, but there's a way to do so without using external programs if it's enabled to disk usage. 1) Click on the iPod icon in My Computer. 3) Click Tools > Folder Options > View > Show Hidden Files and Folders. 3) A folder called "iPod Control" should appear. Navigate into that folder and all your music should be in several different folders within. If you don't want to do it this way, there are also third-party programs like CopyPod.  // For iPod support, Google "iPodLounge." Their forums are really helpful, too.  // Ordering from Amazon is probably your best bet. I ordered this on March 17 and received it the very next day on March 18. That was with Super Saver Shipping deal where it's actually supposed to take up to two weeks to get to you! This could just be in my lucky case, but even so, you can also always return your iPod if something is wrong with it with zero hassle and for free. Like with those other players that gave me issues? Amazon sent a UPS guy to my house to pick it up, returned it, and I got ALL of my money back. Just my two cents on that.  ---  Overall, a great player. Besides a few flaws, Apple has found a new iPod-lover in me which I thought NEVER would happen! Sorry for the length of this review but I hope it helped potential buyers. Happy iPodding. :)  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:40
+[totalNum]:41
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HTPQ2/ref=cm_cr_pr_link_2/102-0930348-7172907?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1021
+[textPath]:
+
+#####188
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Apple iPod 4 GB mini M9800LL/A (Silver)
+[title]:Incredibly Fast Shipping!
+[author]:Jason R
+[createDate]:Tue Mar 22 00:00:00 CST 2005
+[summary]:
+[fullText]:Cheers to Amazon! I bought this IPod as a gift for my fiancs burf-day, so I haven't even taken it out of the box yet, but I had to write a quick note singing their praises. Amazon's logistics and delivery network is unbelievable.  I opted for the free shipping offer (Super Saver Discount), which Amazon claims will ship in two to three days.  I placed the order around 2:00 PM CST, yesterday (3/21/05), only to have it show-up on my desk at work at 10:30 AM CST, today (3/22/05). That's a total of 20.5 hours for Super Saver Delivery.  I will say that my home in St. Louis, MO isn't extremely far from Amazon's distribution center in Lexington, KY, where this package was shipped from - about 350 miles.  But still, I've ordered pizza's that have taken longer to get here.  Way to go Amazon!  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:4
+[totalNum]:7
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HTPQ2/ref=cm_cr_pr_link_2/102-0930348-7172907?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1021
+[textPath]:
+
+#####189
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Apple iPod 4 GB mini M9800LL/A (Silver)
+[title]:Wow
+[author]:Jean Silk
+[createDate]:Wed Mar 23 00:00:00 CST 2005
+[summary]:
+[fullText]:I got the product within the day the email was sent that it had been shipped and in perfect condition.  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:1
+[totalNum]:9
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HTPQ2/ref=cm_cr_pr_link_2/102-0930348-7172907?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1021
+[textPath]:
+
+#####190
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Apple iPod 4 GB mini M9800LL/A (Silver)
+[title]:Ipod = The Best MP3 Player
+[author]:
+[createDate]:Wed Mar 23 00:00:00 CST 2005
+[summary]:
+[fullText]:I love the ipod mini it holds so much music and is so small. Also the 18 hour battery life is great. This is perfect for holding my hip hop music collection. If you dont have alot of music I would also recomend the ipod shuffle. But my ipod mini has been great so far. Go Ipods!  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:3
+[totalNum]:4
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HTPQ2/ref=cm_cr_pr_link_2/102-0930348-7172907?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1021
+[textPath]:
+
+#####191
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Apple iPod 4 GB mini M9800LL/A (Silver)
+[title]:If It's Too Loud, You're Too Old...
+[author]:James M. Wolff "justanoldbaldguy"
+[createDate]:Fri Mar 25 00:00:00 CST 2005
+[summary]:
+[fullText]:I've owned a number of other MP3 players and have made a concerted effort to avoid "iPod madness."  But with the recent price drop and upgrade of the battery life, I decided to take the plunge.  I bought mine through the Apple store and got free engraving as well as free shipping.  All-in-all, I LOVE my new 4gb iPod mini.  I also like that I can import my MusicMatch Jukebox playlists into iTunes rather easily.  There are really, in my opinion, only a few negatives:  ~ Dock is no longer included.  However, the included USB cable works fine IF you have a powered USB port on your PC. ~ The included ear-buds are AWFUL!  Fortunately I had several pairs of good headphones floating around, so that was not a big issue for me.  I would recommend picking up the USB power adapter and the Insten iPod Sync & Charging cradle.  I would also recommend checking out the iLounge web site for lots of good information on the care and feeding of your iPod.  Oh!  One other negative is that these things ARE addictive. And I'm kinda thinkin' now that should have gone for the 20gb version.  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:5
+[totalNum]:5
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HTPQ2/ref=cm_cr_pr_link_2/102-0930348-7172907?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1021
+[textPath]:
+
+#####192
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Apple iPod 4 GB mini M9800LL/A (Silver)
+[title]:"the next big" bogus offer
+[author]:
+[createDate]:Mon Mar 28 00:00:00 CST 2005
+[summary]:
+[fullText]:Let's face it, you can't get something for nothing!  The San Francisco Chronicle recently exposed the real story behind the so-called "offers" that are continually being posted here.  Do a search on Google or on sfgate.com for "iPod not really free David Lazarus" and you will see what the con artists running these programs are really up to.  In a nutshell, it's just another way for spammers and other sleazy people to steal your personal information.  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:4
+[totalNum]:7
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HTPQ2/ref=cm_cr_pr_link_2/102-0930348-7172907?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1021
+[textPath]:
+
+#####193
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Apple iPod 4 GB mini M9800LL/A (Silver)
+[title]:Very disappointing battery life
+[author]:S. Tung
+[createDate]:Fri Apr 01 00:00:00 CST 2005
+[summary]:
+[fullText]:So I received my Ipod Mini last week (good job Amazon for the free shipping....which arrived very promptly) and I had a lot of trouble with iTunes. I had a 256 mb mp3 player before I bought my iPod and transferring music to that one was so much easier. With iTunes, you have to make sure every song you want on your iPod is in the library. Thus if you add songs from a different computer, the songs that are not in this new library will be deleted! I guess this protects illegal music sharing, but for something this expensive this is a very inconvenient feature. Basically I think iTunes is an inferior program for transferring music; on my old mp3 player you could just drag and drop music files into the player.  Most importantly, the battery life of my iPod is absolutely disappointing. I've had to charge it every 2 days since the day I received it, and it's not like I keep it on all the time. I just use it when I walk to class, and in a span of 2 days it is actually on for about no more than 6 hours. I don't even have the backlight setting on at all. I am extremely upset with this because the 18 hour battery life is what initially hooked me into buying this second generation version.  Apple is lucky the iPod has such a good interface. The scroll wheel I must admit is a very intelligent tool and the ability to make playlists is something flash drive based mp3 players can't do. For 190 dollars I got a second generation iPod that has EXTREMELY poor battery life and that's why I am so upset with this. If anyone else has had problems with their battery, please share. It's better to know I'm not the only one who got gypped!  
+[rating]:2.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:5
+[totalNum]:12
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HTPQ2/ref=cm_cr_pr_link_2/102-0930348-7172907?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1021
+[textPath]:
+
+#####194
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Apple iPod 4 GB mini M9800LL/A (Silver)
+[title]:What is Wrong With iTunes?
+[author]:Will
+[createDate]:Sun Apr 03 00:00:00 CST 2005
+[summary]:
+[fullText]:I love my iPod and iTunes, and simply can not see why people dislike iTunes.  A previous reviewer said that they couldn't transfer songs from another computer.  BULL.  Just right click on the iPod, and change it to manual synchronization.  Even if you don't like iTunes, there are many other applications, such as iPod Agent, that can transfer music (and more) to your iPod that are available online for free.  Especially with the new price, IPODS ROCK!  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:4
+[totalNum]:7
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HTPQ2/ref=cm_cr_pr_link_2/102-0930348-7172907?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1021
+[textPath]:
+
+#####195
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Apple iPod 4 GB mini M9800LL/A (Silver)
+[title]:Wonderful.
+[author]:John Truslow
+[createDate]:Thu Apr 07 00:00:00 CST 2005
+[summary]:
+[fullText]:I have a tremendous amount of music - too much for an iPod of any current size - and so I knew that I would be moving music on and off of the device no matter what.  I chose the smallest iPod Mini because of its good price and physical dimensions (it's a lot smaller than most people think), and have been very, very happy with my purchase.  I am something of an audiophile, and yet have been very pleased with the Mini's impressive sound quality, its ease of use, the incredible battery life (18 hours is not much of an exageration) and the flexibility that the Mini provides me.  To be only slightly critical (and not to discourage anyone from enjoying an awesome device), I am not especially fond of Apple's ear-buds (and a bit uncomfortable, too), but they were easily replaced for even better sound.  Also, I do wish that I could turn off the "auto-pause" feature (the unit pauses automatically when the earphones are removed, but is so sensitive as to occasionally pause when the plug is inadvertently rotated).  These are minor criticisms, and I hope that everyone gets an iPod!  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:10
+[totalNum]:11
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HTPQ2/ref=cm_cr_pr_link_2/102-0930348-7172907?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1021
+[textPath]:
+
+#####196
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Apple iPod 4 GB mini M9800LL/A (Silver)
+[title]:Great, but bruises as easily as an apple....  Poor for audio books (no bookmarks)
+[author]:C. Wennet "cwennet"
+[createDate]:Tue Apr 12 00:00:00 CST 2005
+[summary]:
+[fullText]:This is my first Ipod and I love it.  The functionality is excellent and I've found that it lives up to nearly all of the positive notes that others here and elsewhere have written.  However, I have two complaints: One that would not have changed my purchase decision, and another that would have made me buy an accessory earlier.  First, the battery life is nowhere near 18 hours.  I do not use the backlight, nor do I play it very loud.  Perhaps the best I have done with battery life is 7-10 hours.  I was so surprised at first that I thought I had accidentally purchased the fist generation Mini.  I confirmed that I had the second one. But again, I would still purchase this, regardless.  Second, get a case or some other protective cover!  I dropped mine twice outside.  Both times were from only a foot or two but were on pavement or asphalt.  The Ipod worked flawlessly without any problems at all. But, drops that may have only slightly scratched a plastic case resulted in several small but very noticeable dings and even an actual dent on the corner.  The metal used for these cases must be pretty soft or pretty cheap! If you want to keep your Mini looking clean and new over time, and you occasionally have two left hands, you will definitely want to get some type of case or cover for it.  8/31/05:   After using the iPod for months, I realized that it missed a great feature I had on my old Rio 500: the ability to bookmark!  I listen to audio books a little more than I listen to music.  Though I understand there is an ability to bookmark Audible books and that there are various hacks and tricks out there, there is NO way to easily bookmark an audio book that you may have imported from CD or elsewhere.  I cannot change my original rating, but: For music, I would keep it at 4 stars.  For Audio books, the iPod deserves 1 star!  If you listen primarily to audio books, look elsewhere for a player that allows you to easily bookmark your spot.  12/22/05:  Battery life stinks!  I use this mostly for audio books and podcasts, and the best I can get is 2-3 hours before the battery dies.  Apple support is the worst!  I sent it back to them for repair: they received it on a Thursday or Friday, and sent it back on a Monday, stating that it was up to their standards.  If I was not now "captive" by having converted many CDs to Apple format, I would dump the Ipod altogether.  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:7
+[totalNum]:8
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HTPQ2/ref=cm_cr_pr_link_2/102-0930348-7172907?%5Fencoding=UTF8&pageNumber=2&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1021
+[textPath]:
+
+#####197
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Apple iPod 4 GB mini M9800LL/A (Silver)
+[title]:Great Product
+[author]:
+[createDate]:Tue Feb 27 00:00:00 CST 2007
+[summary]:
+[fullText]:Besides the owners manual, and the few problems you might encouter, the mini is great. Despite what other reviewers have said, I have had my mini for about two years, and the battery still seams perfect(I've never done a full battery life check) As for finding out how to upload, download, and use the mini at first,it's a little more tuff. I STILL LOVE THE MINI.  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:1
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HTPQ2/ref=cm_cr_pr_link_43/102-0930348-7172907?%5Fencoding=UTF8&pageNumber=43&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1022
+[textPath]:
+
+#####198
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Apple iPod 4 GB mini M9800LL/A (Silver)
+[title]:best ipod ever
+[author]:
+[createDate]:Fri Mar 09 00:00:00 CST 2007
+[summary]:
+[fullText]:ive had many ipods like the ipod video and shuffle but they all are no compiticion compared to this it is amazingly duribly i fell on a rail snowboarding and it didint do anything only one downer its pretty hard to find but other then that its perfect!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
+[rating]:5.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:2
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HTPQ2/ref=cm_cr_pr_link_43/102-0930348-7172907?%5Fencoding=UTF8&pageNumber=43&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1022
+[textPath]:
+
+#####199
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Apple iPod 4 GB mini M9800LL/A (Silver)
+[title]:It's an IPOD... 
+[author]:Electronic Freak "Double D"
+[createDate]:Tue Mar 20 00:00:00 CST 2007
+[summary]:
+[fullText]:If you ar reading this, then perhaps this is would be your first IPOD you've ever purchased.  Because, there is nothing different about this Ipod than the others.  it's a very nice MP3 Player.  All of the Ipods are.  If 4GB is enough space for you, then this is a great device to play your music.  
+[rating]:4.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:1
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HTPQ2/ref=cm_cr_pr_link_43/102-0930348-7172907?%5Fencoding=UTF8&pageNumber=43&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1022
+[textPath]:
+
+#####200
+[id]:0
+[productId]:0
+[standardName]:
+[productName]:Apple iPod 4 GB mini M9800LL/A (Silver)
+[title]:iPOD
+[author]:Rayna Castaldini "Raynee01"
+[createDate]:Mon Mar 26 00:00:00 CST 2007
+[summary]:
+[fullText]:I had to replace it because it crashed on me and I only had it for about 5 months.  
+[rating]:1.0
+[recommend]:0
+[paid]:0.0
+[helpfulNum]:0
+[totalNum]:2
+[commentNum]:0
+[webHome]:http://www.amazon.com
+[webUrl]:http://www.amazon.com/review/product/B0006HTPQ2/ref=cm_cr_pr_link_43/102-0930348-7172907?%5Fencoding=UTF8&pageNumber=43&sortBy=bySubmissionDateAscending
+[htmlPath]:F:\amazon_mp3\1/1022
+[textPath]:

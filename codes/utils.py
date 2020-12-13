@@ -7,12 +7,7 @@ from nltk.corpus import stopwords
 
 
 # HELPER FUNCTIONS
-# Functions included:
-#   - processText: processes review text into tokenized words
-#   - filterReviews: filter reviews
-#   - buildVabulary: builds initial vocabulary
-#   - buildTermDocMatrix: builds term-doc matrix (tdm[d][w]), applying min_doc_count
-#                         and updating the vacabulary in the process
+
 
 
 ###############################################################################
@@ -116,14 +111,14 @@ def computeReviewParams(reviews, tdm, modelParams, MAX_REVIEW_ITER, EPS):
         params = initializeReviewParams(review,modelParams, tdm[idx,:])
         # compute initial Ld
         oldLd = computeReviewLog(review,params,modelParams, tdm[idx,:])
-        print('----------> Review #'+str(idx)+': '+str(oldLd))
+        print('----------> Review #'+str(idx+1)+': '+str(oldLd))
         # update until convergence
         for iterReview in range(MAX_REVIEW_ITER):
             # update review params
             params = updateReviewParams(review,params, modelParams,tdm[idx,:])
             # compute new Ld
             newLd = computeReviewLog(review,params,modelParams,tdm[idx,:])
-            print(newLd)
+            #print(newLd)
             # assess change
             if abs((newLd-oldLd)/newLd)<EPS:
                 converged = True
@@ -221,7 +216,7 @@ def initializeReviewParams(review,modelParams,termvec):
 ###############################################################################
 
 
-def phifunction(phi,n,review,modelParams,reviewParams, termvec):
+def phifunction(phi,n,wn,review,modelParams,reviewParams, termvec):
     K = len(modelParams['gamma'])
     eps = modelParams['eps']
     beta = modelParams['beta']
@@ -233,7 +228,7 @@ def phifunction(phi,n,review,modelParams,reviewParams, termvec):
     r = review['Rating'][0]
     sbar = np.zeros(K)
     sVar = np.zeros(K)
-    wn = np.where(termvec>0)[0] # nonzero elements
+    #wn = np.where(termvec>0)[0] # nonzero elements
     sumeta = 0
     for i in range(K):
         sumeta = sumeta + eta[i]
@@ -288,11 +283,14 @@ def updateReviewParams(review,params,modelParams,termvec):
     gamma = modelParams['gamma']
     phi = params['phi']
     newphi = phi
-    bounds = opt.Bounds([0 for i in range(K)],[1 for i in range(K)])
+    bounds = opt.Bounds([1e-10 for i in range(K)],[1 for i in range(K)])
     constraints = opt.LinearConstraint([1 for i in range(K)], 1, 1)
     for idx, j in enumerate(wn):
+        x0 = phi[:,idx]
+        x0 = [max(val,1e-10) for val in x0]
+        x0 = [min(val,1) for val in x0]
         res = opt.minimize(
-                        lambda x: -phifunction(x,idx,review,modelParams,params, termvec), phi[:,idx],
+                        lambda x: -phifunction(x,idx,wn,review,modelParams,params, termvec), x0,
                            bounds = bounds, constraints = constraints)
         newphi[:,idx] = res.x
 
@@ -313,9 +311,13 @@ def updateReviewParams(review,params,modelParams,termvec):
         for idx, j in enumerate(wn):
             sbar[i] = sbar[i] + termvec[j]*beta[i,j]*phi[i,idx]
             sVar[i] = sVar[i] + termvec[j]*(beta[i,j]**2)*phi[i,idx]*(1-phi[i,idx])
+    bounds = opt.Bounds([0 for i in range(K)],[1 for i in range(K)])
+    x0 = lamb
+    x0 = [max(val,0) for val in x0]
+    x0 = [min(val,1) for val in x0]
     res = opt.minimize(
                 lambda x: lambdafunction(x,review,modelParams,params, termvec),
-                            lamb, bounds = bounds, constraints = constraints
+                            x0, bounds = bounds, constraints = constraints
                         )
     newlamb= res.x
     params['lamb']=newlamb
@@ -357,7 +359,7 @@ def updateModelParams(reviews, modelParams, reviewParams, tdm):
     
     # update gamma
     gamma = modelParams['gamma']
-    res = opt.minimize(lambda x: gammafunction(x,reviews,modelParams,reviewParams,tdm),
+    res = opt.minimize(lambda x: -gammafunction(x,reviews,modelParams,reviewParams,tdm),
                         gamma
                        )
     gamma = res.x
@@ -441,6 +443,13 @@ def betafunction(beta,reviews,modelParams,reviewParams,tdm):
 def gammafunction(gamma,reviews,modelParams,reviewParams,tdm):
     K = len(reviewParams[0]['lamb'])
     D = len(reviews)
+    fun = 0
+    for d in range(D):
+        eta = reviewParams[d]['eta']
+        fun = fun + sc.loggamma(gamma.sum())
+        for i in range(K):
+            fun = fun - sc.loggamma(gamma[i]) + (gamma[i]-1)*(sc.digamma(eta[i])-sc.digamma(eta.sum()))
+    '''
     deriv = []
     for i in range(K):
         aux = D*(sc.digamma(gamma.sum()) -  sc.digamma(gamma[i]) )
@@ -455,6 +464,7 @@ def gammafunction(gamma,reviews,modelParams,reviewParams,tdm):
             deriv.append(aux2)
     deriv = np.array(deriv)
     fun = (deriv**2).sum()
+    '''
     return fun
     
         

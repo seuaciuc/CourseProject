@@ -2,8 +2,8 @@
 INPUTS
 '''
 
-dataFile = 'MP3reviews_low_100.pkl' # processed data file. Needs to be in the data folder
-modelFile = 'MP3model_low_100_3.pkl' # model file. Needs to be in the model folder
+dataFile = 'MP3reviews_high_100.pkl' # processed data file. Needs to be in the data folder
+modelFile = 'MP3model_high_100_3.pkl' # model file. Needs to be in the model folder
 N = 10 # number of top words to retrieve for each aspect
 
 

@@ -33,7 +33,7 @@ To test the codes, you can run the data processing scripts on the provided small
 
 2. Model Building
 
-uilding the model takes time. Because of this, a pre-model was built on a random sample of 100 reviews. That can be done, but it still takes a little time.
+Building the model takes time. Because of this, a pre-model was built on a random sample of 100 reviews. That can be done, but it still takes a little time.
 To test the functionality of the model building code, you can build a model on one of the reduced datasets.
 - Run *estimateModel.py* on the reduced MP3 dataset (*MP3reviews_redux.pkl*) to generate the model file *MP3model_redux.pkl*. The suggested number of aspects is 3.
 

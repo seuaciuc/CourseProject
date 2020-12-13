@@ -27,3 +27,12 @@ Lastly, inbuilding the term-document matrix (TDM), only terms that appear in at 
 - This means they are not included in the corpus vocabulary and TDM (which is what is used in any further processing steps), but are not deleted from review content (list of terms).
 - This is done *after* applying the minimum review term count.
 - When processing the example sub-sampled datasets, a minimum document appearance of 3 was used instead of 10.
+
+# Model Building
+The model is built through the script *estimateModel.py*:
+- INPUTS:
+  - Data file: this should be a pickle file that comes out of the data processing step above, and it should be in the *\data* folder. Some examples are contained there.
+  - Output file: name of the output file that will contain the model parameters.
+  - Number of aspects
+- OUTPUTS:
+  - The model is saved with the provided output file name.

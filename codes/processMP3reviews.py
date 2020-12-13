@@ -2,9 +2,9 @@
 INPUTS
 '''
 # provide the MP3 review file name (amazon_mp3.txt). Must be in the data folder
-inputFile = 'amazon_mp3.txt'
+inputFile = 'amazon_mp3_redux.txt'
 # provide output file name. This will be a pkl file saved in the data folder
-outputFile = 'MP3reviews.pkl'
+outputFile = 'MP3reviews_redux.pkl'
 
 ###############################################################################
 ###############################################################################

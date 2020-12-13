@@ -36,3 +36,18 @@ The model is built through the script *estimateModel.py*:
   - Number of aspects
 - OUTPUTS:
   - The model is saved with the provided output file name.
+
+Other parameters, such as the maximum number of iterations, can be controlled as well through further straight-forward modifications to the script.
+
+# Analysis Scripts
+Other scripts include:
+
+- *utils.py*:
+  - Contains a number of helper functions. No modifications to this script should be required.
+- *getStats.py*:
+  - This script takes one of the pickle files data contain the processed data (in the *\data* folder; see README.md there) and displays:
+    - The number of reviews in the file;
+    - The number of unique items (products) reviewed;
+    - The average length (and standard deviation) of the reviews;
+    - The average and standard deviation of the overall ratings.
+   - These are displayed in the terminal; no other outputs or files are generated.

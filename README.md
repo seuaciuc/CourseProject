@@ -25,13 +25,15 @@ Most of the information in this readme and the others is summarized in the accom
 Because of the time for computation and size of some of the files, not all aspects of the project can be reproduced. Below is a suggested testing procedure that uses all scripts in the project to assess their functionality. The scripts provided are set to run the steps in this procedure without change if the folder structure is maintained.
 
 1. Data Processing Scripts
-PRocessing the entire datasets take considerable time and resources. This has been done, but the resulting files are larger than the allowable limite in GitHub.
+
+Processing the entire datasets take considerable time and resources. This has been done, but the resulting files are larger than the allowable limite in GitHub.
 To test the codes, you can run the data processing scripts on the provided smaller datasets. These two steps will run the scripts provided to process each of the two datasets:
 - Run *processMP3reviews.py* to process the MP3 reviews in *amazon_mp3_redux.txt*. This will generate the *MP3reviews_redux.pkl*. All these files are in the *\data* folder.
 - Run *processHOTELreviews.py* to process the hotels reviews in the folder *\Texts_redux*. This will generate the *HotelReviews_redux.pkl*. All these files are in the *\data* folder.
 
 2. Model Building
-Building the model takes time. Because of this, a pre-model was built on a random sample of 100 reviews. That can be done, but it still takes a little time.
+
+uilding the model takes time. Because of this, a pre-model was built on a random sample of 100 reviews. That can be done, but it still takes a little time.
 To test the functionality of the model building code, you can build a model on one of the reduced datasets.
 - Run *estimateModel.py* on the reduced MP3 dataset (*MP3reviews_redux.pkl*) to generate the model file *MP3model_redux.pkl*. The suggested number of aspects is 3.
 

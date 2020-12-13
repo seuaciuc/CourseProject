@@ -2,7 +2,7 @@
 INPUTS
 '''
 # provide the processed MP3 review file name (pkl file). Must be in the data folder
-inputFile = 'HotelReviews.pkl'
+inputFile = 'MP3reviews_high_100.pkl'
 
 
 ###############################################################################

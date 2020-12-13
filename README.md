@@ -25,7 +25,7 @@ Because of the time for computation and size of some of the files, not all aspec
 1. Data Processing Scripts
 PRocessing the entire datasets take considerable time and resources. This has been done, but the resulting files are larger than the allowable limite in GitHub.
 To test the codes, you can run the data processing scripts on the provided smaller datasets. These two steps will run the scripts provided to process each of the two datasets:
-- Run *processMP3reviews.py* to process the MP3 reviews in *amazon_mp3_redux.txt*. This will generate the *HotelReviews_redux.pkl*. All these files are in the *\data* folder.
+- Run *processMP3reviews.py* to process the MP3 reviews in *amazon_mp3_redux.txt*. This will generate the *MP3reviews_redux.pkl*. All these files are in the *\data* folder.
 - Run *processHOTELreviews.py* to process the hotels reviews in the folder *\Texts_redux*. This will generate the *HotelReviews_redux.pkl*. All these files are in the *\data* folder.
 
 2. Model Building

@@ -31,6 +31,10 @@ To test the codes, you can run the data processing scripts on the provided small
 2. Model Building
 Building the model takes time. Because of this, a pre-model was built on a random sample of 100 reviews. That can be done, but it still takes a little time.
 To test the functionality of the model building code, you can build a model on one of the reduced datasets.
-- Run *estimateModel.py* on the reduced MP3 dataset (*MP3reviews_redux.pkl*) to generate the model file *MP3model_redux.pkl*.
+- Run *estimateModel.py* on the reduced MP3 dataset (*MP3reviews_redux.pkl*) to generate the model file *MP3model_redux.pkl*. The suggested number of aspects is 3.
+
+3. Analysis
+- Run the *getStats.py* on *MP3reviews_high_100.pkl* to obtain the statistics on that smaller set of reviews.
+- Run the *getTopAspectWords.py* using the data *MP3reviews_high_100.pkl* and model *MP3model_high_100_3.pkl* to obtain the top 10 words in each of the 3 aspects of this model on these reviews.
 
 

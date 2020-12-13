@@ -19,6 +19,8 @@ Other "hyper-parameters" (such as maximum number of iterations, minimum review l
 
 In general, the scripts are ready to be run on some of the sample files provided if the folder structure of this repository is maintained.
 
+Most of the information in this readme and the others is summarized in the accompanying presentation slides. That is probably the best place to start.
+
 ## Suggested Testing Procedure
 Because of the time for computation and size of some of the files, not all aspects of the project can be reproduced. Below is a suggested testing procedure that uses all scripts in the project to assess their functionality. The scripts provided are set to run the steps in this procedure without change if the folder structure is maintained.
 

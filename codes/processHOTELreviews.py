@@ -92,7 +92,7 @@ t = time.strftime("%D %H:%M:%S", time.localtime())
 print(t,'Building vocabulary...')
 voc = utils.buildVocabulary(reviews)
 t = time.strftime("%D %H:%M:%S", time.localtime())
-print(t,'Buildiing Term-Document Matrix...')
+print(t,'Building Term-Document Matrix...')
 tdm, voc = utils.buildTermDocMatrix(reviews, voc, min_doc_count=MIN_DOC_COUNT)
 
 ### SAVE FILE

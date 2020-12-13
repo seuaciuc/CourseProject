@@ -16,3 +16,5 @@ All code is done in Python. Data (information from one step to another) is share
 There is no command line interface built for this yet. Inputs are provided directly in the files, by modifying the first few lines of the scripts.
 The most common inputs are clearly identified in the beginning of the scripts.
 Other "hyper-parameters" (such as maximum number of iterations, minimum review length, etc) will appear immediately after the primary input section of the code. These typically do not need to be changed unless fine-tuning is desired. Whenever the first *import* command is reached, all possible inputs are done.
+
+In general, the scripts are ready to be run on some of the sample files provided if the folder structure of this repository is maintained.

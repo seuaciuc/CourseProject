@@ -24,6 +24,6 @@ After that, following the approach in the paper, the reviews are filtered:
 2. Any reviews with missing ratings are eliminated.
 
 Lastly, inbuilding the term-document matrix (TDM), only terms that appear in at least 10 documents are kept. A few notes regarding this:
-- This means they are not included in the TDM (which is what is used in any further processing steps), but are not deleted from review content (list of terms).
+- This means they are not included in the corpus vocabulary and TDM (which is what is used in any further processing steps), but are not deleted from review content (list of terms).
 - This is done *after* applying the minimum review term count.
 - When processing the example sub-sampled datasets, a minimum document appearance of 3 was used instead of 10.

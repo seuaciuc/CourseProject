@@ -51,3 +51,10 @@ Other scripts include:
     - The average length (and standard deviation) of the reviews;
     - The average and standard deviation of the overall ratings.
    - These are displayed in the terminal; no other outputs or files are generated.
+- *getTopAspectWords.py*
+  - This script prints the top N words in aspect to the terminal.
+  - Inputs:
+    - Processed data file (must be in the *\data* folder)
+    - Model data file (must be in the *\models* folder)
+    - N: the number of words to retrieve in each aspect
+   - Outputs: none; results are printed to the terminal.

@@ -2,8 +2,8 @@
 INPUTS
 '''
 # provide the processed MP3 review file name (pkl file). Must be in the data folder
-inputFile = 'MP3reviews_high.pkl'
-outputFile = 'MP3model_high_3.pkl'
+inputFile = 'MP3reviews_high_100.pkl'
+outputFile = 'MP3model_high_100_3.pkl'
 NUM_ASPECTS = 3 # number of aspects
 
 ###############################################################################
@@ -44,9 +44,14 @@ V = len(voc) # vocabulary size
 K = NUM_ASPECTS # number of aspects
 M = len(reviews) # number of reviews (documents) in corpus
 eps = np.ones((K,V)) / V # word (col) distribution for each aspect (row)
-gamma = np.ones(K) / K
+eps = eps + np.random.rand(K,V)
+norm = np.zeros(K)
+for i in range(K):
+    eps[i,:] = eps[i,:]/eps[i,:].sum()
+gamma = np.random.rand(K) * V/K  #np.ones(K) / K
 beta = np.random.randn(K,V)
 mu = np.random.randn(K)
+mu = mu/mu.sum()
 SIG = np.random.randn(K,K)
 SIG = SIG.transpose()*SIG
 delta2 = abs(np.random.randn())
@@ -58,9 +63,11 @@ for iterModel in range(MAX_MODEL_ITER):
     t = time.strftime("%D %H:%M:%S", time.localtime())
     print(t, "Iteration #" + str(iterModel + 1) + "...")
     # compute review parameters
+    t = time.strftime("%D %H:%M:%S", time.localtime())
     print(t, " ---> Computing review parameters...")
     reviewParams = utils.computeReviewParams(reviews, tdm, modelParams, MAX_REVIEW_ITER, EPS)
     # update model parameters
+    t = time.strftime("%D %H:%M:%S", time.localtime())
     print(t, " ---> Updating model parameters...")
     modelParams = utils.updateModelParams(reviews, modelParams, reviewParams, tdm)
     # compute new L

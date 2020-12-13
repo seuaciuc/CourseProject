@@ -94,7 +94,7 @@ print(t,'Building vocabulary...')
 voc_low = utils.buildVocabulary(reviews_low)
 voc_high = utils.buildVocabulary(reviews_high)
 t = time.strftime("%D %H:%M:%S", time.localtime())
-print(t,'Buildining Term-Document Matrix...')
+print(t,'Buildiing Term-Document Matrix...')
 tdm_low, voc_low = utils.buildTermDocMatrix(reviews_low, voc_low, min_doc_count=MIN_DOC_COUNT)
 tdm_high, voc_high = utils.buildTermDocMatrix(reviews_high, voc_high, min_doc_count=MIN_DOC_COUNT)
 

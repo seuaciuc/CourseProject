@@ -6,10 +6,13 @@ http://timan.cs.uiuc.edu/downloads.html
 The Texts_redux folder contains a sub-sample of the hotel review data.
 
 - amazon_mp3_redux.txt: a smaller sub-sample of the amazon review dataset in its raw format.
-- MP3reviews_redux.pkl: the processed data from amazon_mp3_redux.txt.
-- MP3reviews_low_redux.pkl: the processed data from reviews in amazon_mp3_redux.tx with low rating (3 or lower).
-- MP3reviews_high_redux.pkl: the processed data from reviews in amazon_mp3_redux.tx with high rating (higher than 3).
-- HotelReviews_redux.pkl: the processed data from the sub-sample of hotel reviews in the Texts_redux folder.
+- MP3reviews_redux.pkl: the processed data from *amazon_mp3_redux.txt*.
+- MP3reviews_low_redux.pkl: the processed data from reviews in *amazon_mp3_redux.txt* with low rating (3 or lower).
+- MP3reviews_low_100.pkl: processed data of a random sub-sample of 100 reviews with low rating (3 or lower).
+- MP3reviews_high_redux.pkl: the processed data from reviews in *amazon_mp3_redux.txt* with high rating (higher than 3).
+- MP3reviews_high_100.pkl: processed data of a random sub-sample of 100 reviews with high rating (higher than 3).
+- HotelReviews_redux.pkl: the processed data from the sub-sample of hotel reviews in the *\Texts_redux* folder.
+
 
 ## Processed File Content
 The raw file format varies. The download from the source site contains a description of each of them.

@@ -2,6 +2,7 @@
 The scripts below were used to process the raw review data.
 They are set to run on the full dataset, which takes a while and generates files larger than GitHub allows me.
 A smaller sub-sample of the datasets is provided to test the codes on, if desired. The scripts are set to run on those.
+Each will generate an output .pkl file. These have been run and are available in the *\data* folder.
 - *processHOTELreviews.py*:
   - Processes the hotel reviews.
 - processMP3reviews.py:

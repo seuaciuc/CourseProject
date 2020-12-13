@@ -12,6 +12,7 @@ The Texts_redux folder contains a sub-sample of the hotel review data.
 - MP3reviews_high_redux.pkl: the processed data from reviews in *amazon_mp3_redux.txt* with high rating (higher than 3).
 - MP3reviews_high_100.pkl: processed data of a random sub-sample of 100 reviews with high rating (higher than 3).
 - HotelReviews_redux.pkl: the processed data from the sub-sample of hotel reviews in the *\Texts_redux* folder.
+- HotelReviews_100.pkl: processed data of a random the sub-sample of 100 hotel reviews.
 
 
 ## Processed File Content

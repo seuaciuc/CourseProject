@@ -28,6 +28,8 @@ datafolder = os.path.join(basefolder,'data')
 pklfile = os.path.join(datafolder,inputFile)
 fid = open(pklfile,'rb')
 reviews = pickle.load(fid)
+voc = pickle.load(fid)
+tdm = pickle.load(fid)
 fid.close()
 
 # get stats
@@ -37,7 +39,7 @@ txtlen = np.zeros(noReviews)
 productList = []
 avgLength = 0
 for idx, review in enumerate(reviews):
-    txtlen[idx] = len(review['ReviewText'])
+    txtlen[idx] = tdm[idx,:].sum()
     rating[idx] = review['Rating'][0]
     productList.append(review['Product'])
 

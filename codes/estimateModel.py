@@ -2,8 +2,8 @@
 INPUTS
 '''
 # provide the processed MP3 review file name (pkl file). Must be in the data folder
-inputFile = 'MP3reviews_high_100.pkl'
-outputFile = 'MP3model_high_100_3.pkl'
+inputFile = 'MP3reviews_redux.pkl'
+outputFile = 'MP3model_redux.pkl'
 NUM_ASPECTS = 3 # number of aspects
 
 ###############################################################################

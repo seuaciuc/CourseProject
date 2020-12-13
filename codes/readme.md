@@ -1,4 +1,7 @@
-## Contents
+## Data Processing Scripts
+The scripts below were used to process the raw review data.
+They are set to run on the full dataset, which takes a while. This has been done and the results are saved as noted.
+A smaller sub-sample of the datasets is provided to test the codes on, if desired.
 - *processHOTELreviews.py*:
   - Processes the hotel reviews.
   - This has been run; results are in *\data\HotelReview.pkl*.

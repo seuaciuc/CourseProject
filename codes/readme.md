@@ -1,4 +1,4 @@
-#Contents:#
+#Contents:
 - *processHOTELreviews.py*:
   - Processes the hotel reviews.
   - This has been run; results are in *\data\HotelReview.pkl*.

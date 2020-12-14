@@ -7,8 +7,8 @@ Available models:
 - *MP3model_high_100_3.pkl*
   - Model built with 3 aspects on dataset with 100 MP3 reviews with high rating
   - Associated processed data file: *MP3reviews_high_100.pkl* (see *\data* folder)
-- *HotelModel_100_7.pkl*
-  - Model built with 7 aspects on dataset with 100 hotel reviews
+
+An extra model (*HotelModel_100_7.pkl*) is being built with 7 aspects on dataset with 100 hotel reviews
   - Associated processed data file: *HotelReviews_100.pkl* (see *\data* folder)
   - **NOTE:** this will be uploaded when the code finishes.
 
